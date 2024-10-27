@@ -1,0 +1,3506 @@
+[
+    {
+        "min_temp": -50.0,
+        "max_temp": -49.75,
+        "facts": [
+            "-50.0°C is extremely cold, demanding specialized thermal protection and continuous heating.",
+            "Advanced winter clothing is crucial at -50.0°C."
+        ]
+    },
+    {
+        "min_temp": -49.75,
+        "max_temp": -49.5,
+        "facts": [
+            "-49.75°C presents severe risks of frostbite and hypothermia.",
+            "Proper insulation and heating are essential to manage -49.75°C."
+        ]
+    },
+    {
+        "min_temp": -49.5,
+        "max_temp": -49.25,
+        "facts": [
+            "-49.5°C can instantly freeze exposed skin and water.",
+            "Robust heating systems are critical at -49.5°C."
+        ]
+    },
+    {
+        "min_temp": -49.25,
+        "max_temp": -49.0,
+        "facts": [
+            "-49.25°C requires continuous heating and advanced thermal wear.",
+            "High-performance winter gear is essential at -49.25°C."
+        ]
+    },
+    {
+        "min_temp": -49.0,
+        "max_temp": -48.75,
+        "facts": [
+            "-49.0°C presents considerable challenges for maintaining warmth.",
+            "Efficient heating systems are crucial at -49.0°C."
+        ]
+    },
+    {
+        "min_temp": -48.75,
+        "max_temp": -48.5,
+        "facts": [
+            "-48.75°C demands robust thermal management and reliable heating systems.",
+            "Proper winter clothing is necessary at -48.75°C."
+        ]
+    },
+    {
+        "min_temp": -48.5,
+        "max_temp": -48.25,
+        "facts": [
+            "-48.5°C can cause immediate frostbite and cold-related injuries.",
+            "Proper insulation and high-performance heating are essential at -48.5°C."
+        ]
+    },
+    {
+        "min_temp": -48.25,
+        "max_temp": -48.0,
+        "facts": [
+            "-48.25°C necessitates continuous heating and high-quality thermal wear.",
+            "Specialized winter clothing is crucial at -48.25°C."
+        ]
+    },
+    {
+        "min_temp": -48.0,
+        "max_temp": -47.75,
+        "facts": [
+            "-48.0°C can rapidly lead to hypothermia without proper precautions.",
+            "Efficient heating solutions are essential at -48.0°C."
+        ]
+    },
+    {
+        "min_temp": -47.75,
+        "max_temp": -47.5,
+        "facts": [
+            "-47.75°C demands robust insulation and continuous heating.",
+            "Proper winter clothing is necessary to handle -47.75°C."
+        ]
+    },
+    {
+        "min_temp": -47.5,
+        "max_temp": -47.25,
+        "facts": [
+            "-47.5°C presents significant cold-related risks without adequate protection.",
+            "Efficient heating systems are mandatory at -47.5°C."
+        ]
+    },
+    {
+        "min_temp": -47.25,
+        "max_temp": -47.0,
+        "facts": [
+            "-47.25°C requires continuous heating and advanced thermal wear.",
+            "Proper insulation and heating are essential at -47.25°C."
+        ]
+    },
+    {
+        "min_temp": -47.0,
+        "max_temp": -46.75,
+        "facts": [
+            "-47.0°C can rapidly freeze exposed surfaces and skin.",
+            "Proper winter clothing and high-performance heating are crucial at -47.0°C."
+        ]
+    },
+    {
+        "min_temp": -46.75,
+        "max_temp": -46.5,
+        "facts": [
+            "-46.75°C necessitates continuous heating and advanced thermal wear.",
+            "Efficient insulation is vital to handle -46.75°C."
+        ]
+    },
+    {
+        "min_temp": -46.5,
+        "max_temp": -46.25,
+        "facts": [
+            "-46.5°C presents significant challenges for maintaining livable conditions.",
+            "High-performance heating solutions are necessary at -46.5°C."
+        ]
+    },
+    {
+        "min_temp": -46.25,
+        "max_temp": -46.0,
+        "facts": [
+            "-46.25°C demands continuous heating and specialized winter clothing.",
+            "Proper insulation is critical to handle -46.25°C."
+        ]
+    },
+    {
+        "min_temp": -46.0,
+        "max_temp": -45.75,
+        "facts": [
+            "-46.0°C can quickly lead to frostbite and hypothermia without proper measures.",
+            "Efficient heating systems and advanced winter clothing are essential at -46.0°C."
+        ]
+    },
+    {
+        "min_temp": -45.75,
+        "max_temp": -45.5,
+        "facts": [
+            "-45.75°C necessitates continuous heating and robust insulation.",
+            "Proper winter gear is crucial for safety at -45.75°C."
+        ]
+    },
+    {
+        "min_temp": -45.5,
+        "max_temp": -45.25,
+        "facts": [
+            "-45.5°C presents considerable risks of frostbite and hypothermia.",
+            "Efficient heating solutions and high-performance insulation are essential at -45.5°C."
+        ]
+    },
+    {
+        "min_temp": -45.25,
+        "max_temp": -45.0,
+        "facts": [
+            "-45.25°C can cause severe cold-related injuries without adequate protection.",
+            "Proper insulation and continuous heating are mandatory at -45.25°C."
+        ]
+    },
+    {
+        "min_temp": -45.0,
+        "max_temp": -44.75,
+        "facts": [
+            "-45.0°C demands robust thermal management and advanced winter clothing.",
+            "Efficient heating systems are required to handle -45.0°C."
+        ]
+    },
+    {
+        "min_temp": -44.75,
+        "max_temp": -44.5,
+        "facts": [
+            "-44.75°C can rapidly freeze exposed surfaces and skin.",
+            "Proper insulation and high-performance heating solutions are critical at -44.75°C."
+        ]
+    },
+    {
+        "min_temp": -44.5,
+        "max_temp": -44.25,
+        "facts": [
+            "-44.5°C necessitates continuous heating and advanced thermal wear.",
+            "Reliable heating systems are essential to manage -44.5°C."
+        ]
+    },
+    {
+        "min_temp": -44.25,
+        "max_temp": -44.0,
+        "facts": [
+            "-44.25°C presents significant cold-related risks without proper protection.",
+            "Efficient insulation and heating solutions are mandatory at -44.25°C."
+        ]
+    },
+    {
+        "min_temp": -44.0,
+        "max_temp": -43.75,
+        "facts": [
+            "-44.0°C can quickly lead to frostbite and hypothermia.",
+            "Proper insulation and continuous heating are essential at -44.0°C."
+        ]
+    },
+    {
+        "min_temp": -43.75,
+        "max_temp": -43.5,
+        "facts": [
+            "-43.75°C demands robust thermal management and reliable winter clothing.",
+            "Efficient heating systems are crucial for safety at -43.75°C."
+        ]
+    },
+    {
+        "min_temp": -43.5,
+        "max_temp": -43.25,
+        "facts": [
+            "-43.5°C can cause severe cold-related injuries without adequate measures.",
+            "Proper insulation and continuous heating are mandatory at -43.5°C."
+        ]
+    },
+    {
+        "min_temp": -43.25,
+        "max_temp": -43.0,
+        "facts": [
+            "-43.25°C necessitates continuous heating and high-quality thermal wear.",
+            "Specialized winter clothing and efficient heating are essential at -43.25°C."
+        ]
+    },
+    {
+        "min_temp": -43.0,
+        "max_temp": -42.75,
+        "facts": [
+            "-43.0°C presents considerable challenges for maintaining livable conditions.",
+            "Proper insulation and high-performance heating solutions are required at -43.0°C."
+        ]
+    },
+    {
+        "min_temp": -42.75,
+        "max_temp": -42.5,
+        "facts": [
+            "-42.75°C can cause immediate frostbite and severe hypothermia.",
+            "Robust insulation and continuous heating are vital at -42.75°C."
+        ]
+    },
+    {
+        "min_temp": -42.5,
+        "max_temp": -42.25,
+        "facts": [
+            "-42.5°C demands advanced thermal protection and reliable heating systems.",
+            "Proper winter clothing is essential to handle -42.5°C."
+        ]
+    },
+    {
+        "min_temp": -42.25,
+        "max_temp": -42.0,
+        "facts": [
+            "-42.25°C presents significant cold-related risks without adequate protection.",
+            "Efficient insulation and continuous heating are required at -42.25°C."
+        ]
+    },
+    {
+        "min_temp": -42.0,
+        "max_temp": -41.75,
+        "facts": [
+            "-42.0°C can rapidly lead to frostbite and hypothermia.",
+            "Proper insulation and high-performance heating solutions are essential at -42.0°C."
+        ]
+    },
+    {
+        "min_temp": -41.75,
+        "max_temp": -41.5,
+        "facts": [
+            "-41.75°C necessitates continuous heating and advanced thermal protection.",
+            "Proper winter clothing is essential to manage -41.75°C."
+        ]
+    },
+    {
+        "min_temp": -41.5,
+        "max_temp": -41.25,
+        "facts": [
+            "-41.5°C presents considerable challenges for maintaining warmth without proper measures.",
+            "Efficient heating systems are crucial at -41.5°C."
+        ]
+    },
+    {
+        "min_temp": -41.25,
+        "max_temp": -41.0,
+        "facts": [
+            "-41.25°C can rapidly cause frostbite and cold-related injuries.",
+            "Proper insulation and robust heating systems are required at -41.25°C."
+        ]
+    },
+    {
+        "min_temp": -41.0,
+        "max_temp": -40.75,
+        "facts": [
+            "-41.0°C demands advanced thermal protection and continuous heating.",
+            "Efficient insulation and winter clothing are essential at -41.0°C."
+        ]
+    },
+    {
+        "min_temp": -40.75,
+        "max_temp": -40.5,
+        "facts": [
+            "-40.75°C presents significant cold-related risks without adequate measures.",
+            "Proper insulation and high-performance heating are crucial at -40.75°C."
+        ]
+    },
+    {
+        "min_temp": -40.5,
+        "max_temp": -40.25,
+        "facts": [
+            "-40.5°C can cause immediate frostbite and rapid onset of hypothermia.",
+            "Robust heating systems and advanced winter clothing are necessary at -40.5°C."
+        ]
+    },
+    {
+        "min_temp": -40.25,
+        "max_temp": -40.0,
+        "facts": [
+            "-40.25°C necessitates continuous heating and reliable thermal protection.",
+            "High-performance insulation and winter clothing are required at -40.25°C."
+        ]
+    },
+    {
+        "min_temp": -40.0,
+        "max_temp": -39.75,
+        "facts": [
+            "-40.0°C presents significant challenges for maintaining warmth.",
+            "Efficient heating systems and advanced insulation are essential at -40.0°C."
+        ]
+    },
+    {
+        "min_temp": -39.75,
+        "max_temp": -39.5,
+        "facts": [
+            "-39.75°C demands advanced thermal protection and continuous heating.",
+            "Proper insulation and high-quality winter clothing are necessary at -39.75°C."
+        ]
+    },
+    {
+        "min_temp": -39.5,
+        "max_temp": -39.25,
+        "facts": [
+            "-39.5°C can rapidly lead to frostbite without proper insulation.",
+            "Efficient heating systems are required at -39.5°C."
+        ]
+    },
+    {
+        "min_temp": -39.25,
+        "max_temp": -39.0,
+        "facts": [
+            "-39.25°C necessitates robust thermal management and reliable heating.",
+            "Proper winter clothing is essential at -39.25°C."
+        ]
+    },
+    {
+        "min_temp": -39.0,
+        "max_temp": -38.75,
+        "facts": [
+            "-39.0°C can quickly freeze exposed skin and water.",
+            "High-performance insulation and continuous heating are crucial at -39.0°C."
+        ]
+    },
+    {
+        "min_temp": -38.75,
+        "max_temp": -38.5,
+        "facts": [
+            "-38.75°C demands advanced thermal protection and reliable heating systems.",
+            "Proper winter clothing is essential to handle -38.75°C."
+        ]
+    },
+    {
+        "min_temp": -38.5,
+        "max_temp": -38.25,
+        "facts": [
+            "-38.5°C presents significant cold-related risks without adequate measures.",
+            "Efficient heating systems and high-quality insulation are required at -38.5°C."
+        ]
+    },
+    {
+        "min_temp": -38.25,
+        "max_temp": -38.0,
+        "facts": [
+            "-38.25°C can rapidly cause frostbite and cold-related injuries.",
+            "Proper insulation and continuous heating are essential at -38.25°C."
+        ]
+    },
+    {
+        "min_temp": -38.0,
+        "max_temp": -37.75,
+        "facts": [
+            "-38.0°C necessitates robust thermal management and advanced winter clothing.",
+            "Efficient heating systems and reliable insulation are crucial at -38.0°C."
+        ]
+    },
+    {
+        "min_temp": -37.75,
+        "max_temp": -37.5,
+        "facts": [
+            "-37.75°C presents significant challenges for maintaining livable conditions.",
+            "Proper insulation and high-performance heating solutions are necessary at -37.75°C."
+        ]
+    },
+    {
+        "min_temp": -37.5,
+        "max_temp": -37.25,
+        "facts": [
+            "-37.5°C can rapidly lead to frostbite and hypothermia without proper measures.",
+            "Efficient heating systems and high-quality thermal wear are required at -37.5°C."
+        ]
+    },
+    {
+        "min_temp": -37.25,
+        "max_temp": -37.0,
+        "facts": [
+            "-37.25°C necessitates continuous heating and robust thermal protection.",
+            "Proper winter clothing and reliable insulation are crucial at -37.25°C."
+        ]
+    },
+    {
+        "min_temp": -37.0,
+        "max_temp": -36.75,
+        "facts": [
+            "-37.0°C presents significant cold-related risks without adequate measures.",
+            "Efficient heating systems and reliable insulation are critical at -37.0°C."
+        ]
+    },
+    {
+        "min_temp": -36.75,
+        "max_temp": -36.5,
+        "facts": [
+            "-36.75°C necessitates robust thermal management and continuous heating.",
+            "Proper winter clothing and advanced insulation are essential at -36.75°C."
+        ]
+    },
+    {
+        "min_temp": -36.5,
+        "max_temp": -36.25,
+        "facts": [
+            "-36.5°C can rapidly lead to frostbite and hypothermia without proper protection.",
+            "Efficient heating systems and high-performance thermal wear are required at -36.5°C."
+        ]
+    },
+    {
+        "min_temp": -36.25,
+        "max_temp": -36.0,
+        "facts": [
+            "-36.25°C presents considerable challenges for maintaining livable conditions.",
+            "Proper insulation and continuous heating are crucial at -36.25°C."
+        ]
+    },
+    {
+        "min_temp": -36.0,
+        "max_temp": -35.75,
+        "facts": [
+            "-36.0°C necessitates advanced thermal protection and continuous heating.",
+            "Efficient insulation and high-performance winter clothing are essential at -36.0°C."
+        ]
+    },
+    {
+        "min_temp": -35.75,
+        "max_temp": -35.5,
+        "facts": [
+            "-35.75°C demands significant thermal protection and reliable heating solutions.",
+            "Proper winter clothing and efficient heating systems are required at -35.75°C."
+        ]
+    },
+    {
+        "min_temp": -35.75,
+        "max_temp": -35.5,
+        "facts": [
+            "-35.75°C will cause frostbite in minutes without sufficient protection.",
+            "Daily life at -35.75°C requires specialized planning and preparation."
+        ]
+    },
+    {
+        "min_temp": -35.5,
+        "max_temp": -35.25,
+        "facts": [
+            "-35.5°C makes outdoor activities extremely hazardous without proper gear.",
+            "Heating and insulated environments are key to survival at -35.5°C."
+        ]
+    },
+    {
+        "min_temp": -35.25,
+        "max_temp": -35.0,
+        "facts": [
+            "-35.25°C can cause severe mechanical failures in unequipped systems.",
+            "At -35.25°C, even brief exposure can lead to cold injuries."
+        ]
+    },
+    {
+        "min_temp": -35.0,
+        "max_temp": -34.75,
+        "facts": [
+            "-35°C is a temperature where standard heating systems may struggle to keep up.",
+            "Survival gear must be rated for extreme temperatures at -35°C."
+        ]
+    },
+    {
+        "min_temp": -34.75,
+        "max_temp": -34.5,
+        "facts": [
+            "-34.75°C demands full winter protection to prevent cold-related injuries.",
+            "Buildings must be built to withstand extreme cold conditions at -34.75°C."
+        ]
+    },
+    {
+        "min_temp": -34.5,
+        "max_temp": -34.25,
+        "facts": [
+            "-34.5°C can lead to solidification of most exposed liquids.",
+            "Survival in -34.5°C conditions requires advanced preparation and protection."
+        ]
+    },
+    {
+        "min_temp": -34.25,
+        "max_temp": -34.0,
+        "facts": [
+            "-34.25°C requires constant use of heat sources to prevent freezing.",
+            "At -34.25°C, specialized gear is necessary for any outdoor activity."
+        ]
+    },
+    {
+        "min_temp": -34.0,
+        "max_temp": -33.75,
+        "facts": [
+            "-34°C is a temperature that necessitates rigorous thermal insulation and survival measures.",
+            "Even slight exposure can be dangerous at -34°C without adequate protection."
+        ]
+    },
+    {
+        "min_temp": -33.75,
+        "max_temp": -33.5,
+        "facts": [
+            "-33.75°C demands meticulous care to avoid frostbite and hypothermia.",
+            "Daily life at -33.75°C is heavily dependent on advanced heating solutions."
+        ]
+    },
+    {
+        "min_temp": -33.5,
+        "max_temp": -33.25,
+        "facts": [
+            "-33.5°C can freeze pipes and cause severe infrastructure damage.",
+            "Proper clothing and habitat insulation are critical at -33.5°C."
+        ]
+    },
+    {
+        "min_temp": -33.25,
+        "max_temp": -33.0,
+        "facts": [
+            "-33.25°C makes machinery and electronics highly susceptible to failure.",
+            "Surviving -33.25°C requires advanced planning and protective equipment."
+        ]
+    },
+    {
+        "min_temp": -33.0,
+        "max_temp": -32.75,
+        "facts": [
+            "-33°C can cause rapid onset of frostbite without appropriate protection.",
+            "At -33°C, heating systems work at maximum capacity to maintain warmth."
+        ]
+    },
+    {
+        "min_temp": -32.75,
+        "max_temp": -32.5,
+        "facts": [
+            "-32.75°C requires advanced thermal management to sustain human activities.",
+            "Outdoors, survival at -32.75°C necessitates specialized winter wear."
+        ]
+    },
+    {
+        "min_temp": -32.5,
+        "max_temp": -32.25,
+        "facts": [
+            "-32.5°C can freeze exposed fluids and gasses within minutes.",
+            "Maintaining heat and insulation is critical at -32.5°C."
+        ]
+    },
+    {
+        "min_temp": -32.25,
+        "max_temp": -32.0,
+        "facts": [
+            "-32.25°C is cold enough to cause immediate physical discomfort and potential cold injuries.",
+            "Survival at -32.25°C depends on top-tier insulation and heating solutions."
+        ]
+    },
+    {
+        "min_temp": -32.0,
+        "max_temp": -31.75,
+        "facts": [
+            "-32°C can make standard heating systems insufficient and require backup options.",
+            "Protective winter clothing is mandatory at -32°C to avoid hypothermia."
+        ]
+    },
+    {
+        "min_temp": -31.75,
+        "max_temp": -31.5,
+        "facts": [
+            "-31.75°C demands continuous heating and monitoring of living conditions.",
+            "At -31.75°C, even short exposures can be dangerous without adequate measures."
+        ]
+    },
+    {
+        "min_temp": -31.5,
+        "max_temp": -31.25,
+        "facts": [
+            "-31.5°C necessitates advanced planning and reliable equipment for safety.",
+            "Human survival at -31.5°C requires comprehensive thermal protection."
+        ]
+    },
+    {
+        "min_temp": -31.25,
+        "max_temp": -31.0,
+        "facts": [
+            "-31.25°C can result in severe cold-related injuries very quickly.",
+            "Conducting activities at -31.25°C requires specialized gear and training."
+        ]
+    },
+    {
+        "min_temp": -31.0,
+        "max_temp": -30.75,
+        "facts": [
+            "-31°C is only survivable with significant preparation and equipment.",
+            "Heating systems must be highly efficient to function at -31°C."
+        ]
+    },
+    {
+        "min_temp": -30.75,
+        "max_temp": -30.5,
+        "facts": [
+            "-30.75°C freezes most natural water bodies solid.",
+            "Survival gear must be rated for extreme temperatures at -30.75°C."
+        ]
+    },
+    {
+        "min_temp": -30.5,
+        "max_temp": -30.25,
+        "facts": [
+            "-30.5°C requires the highest thermal protections to prevent cold injuries.",
+            "Survival gear must be rated for extreme temperatures at -30.5°C."
+        ]
+    },
+    {
+        "min_temp": -30.25,
+        "max_temp": -30.0,
+        "facts": [
+            "-30.25°C can cause hypothermia within minutes without appropriate clothing.",
+            "Advanced thermal solutions are essential to maintain human activities at -30.25°C."
+        ]
+    },
+    {
+        "min_temp": -30.0,
+        "max_temp": -29.75,
+        "facts": [
+            "-30.0°C is brutally cold, requiring all-encompassing thermal protection.",
+            "Any exposed skin can freeze almost instantaneously at -30.0°C."
+        ]
+    },
+    {
+        "min_temp": -29.75,
+        "max_temp": -29.5,
+        "facts": [
+            "-29.75°C significantly challenges the functionality of machinery.",
+            "Extreme weather measures must be in place to sustain operations at -29.75°C."
+        ]
+    },
+    {
+        "min_temp": -29.5,
+        "max_temp": -29.25,
+        "facts": [
+            "-29.5°C can lead to the instant freezing of exposed water surfaces.",
+            "Precautions must be doubled at -29.5°C for safety."
+        ]
+    },
+    {
+        "min_temp": -29.25,
+        "max_temp": -29.0,
+        "facts": [
+            "-29.25°C is rare and challenging to survive without suitable technology.",
+            "Insulation and heating are essential for survival at -29.25°C."
+        ]
+    },
+    {
+        "min_temp": -29.0,
+        "max_temp": -28.75,
+        "facts": [
+            "-29.0°C is potentially lethal without suitable precautions and gear.",
+            "Outdoor activities should be minimized at -29.0°C."
+        ]
+    },
+    {
+        "min_temp": -28.75,
+        "max_temp": -28.5,
+        "facts": [
+            "-28.75°C requires robust heating solutions to maintain livable conditions.",
+            "Frostbite can set in within minutes at -28.75°C."
+        ]
+    },
+    {
+        "min_temp": -28.5,
+        "max_temp": -28.25,
+        "facts": [
+            "-28.5°C can freeze non-moving water rapidly.",
+            "Thermal insulation is crucial for buildings at -28.5°C."
+        ]
+    },
+    {
+        "min_temp": -28.25,
+        "max_temp": -28.0,
+        "facts": [
+            "-28.25°C demands the highest levels of preparation and thermal management.",
+            "Operating at -28.25°C requires advanced heating technologies."
+        ]
+    },
+    {
+        "min_temp": -28.0,
+        "max_temp": -27.75,
+        "facts": [
+            "-28.0°C presents serious risks of hypothermia without proper clothing.",
+            "Reliable heating systems are a must to survive at -28.0°C."
+        ]
+    },
+    {
+        "min_temp": -27.75,
+        "max_temp": -27.5,
+        "facts": [
+            "-27.75°C requires constant attention to prevent cold-related injuries.",
+            "At -27.75°C, heated shelter is mandatory."
+        ]
+    },
+    {
+        "min_temp": -27.5,
+        "max_temp": -27.25,
+        "facts": [
+            "-27.5°C can freeze most exposed water supplies.",
+            "It is essential to have appropriate winter gear at -27.5°C."
+        ]
+    },
+    {
+        "min_temp": -27.25,
+        "max_temp": -27.0,
+        "facts": [
+            "-27.25°C is an extremely cold temperature requiring specialized survival measures.",
+            "Advanced heating systems must be employed at -27.25°C."
+        ]
+    },
+    {
+        "min_temp": -27.0,
+        "max_temp": -26.75,
+        "facts": [
+            "-27.0°C can cause water pipes to freeze and burst.",
+            "Insulation must be at its best to handle -27.0°C."
+        ]
+    },
+    {
+        "min_temp": -26.75,
+        "max_temp": -26.5,
+        "facts": [
+            "-26.75°C necessitates wearing multiple layers of thermal clothing.",
+            "Preparation and extreme measures are needed at -26.75°C."
+        ]
+    },
+    {
+        "min_temp": -26.5,
+        "max_temp": -26.25,
+        "facts": [
+            "-26.5°C brings severe cold that can incapacitate quickly.",
+            "High-performance insulation is critical to manage -26.5°C."
+        ]
+    },
+    {
+        "min_temp": -26.25,
+        "max_temp": -26.0,
+        "facts": [
+            "-26.25°C can lead to hypothermia with minimal exposure.",
+            "At -26.25°C, robust heating solutions are crucial."
+        ]
+    },
+    {
+        "min_temp": -26.0,
+        "max_temp": -25.75,
+        "facts": [
+            "-26.0°C presents significant risks of frostbite and cold injuries.",
+            "Appropriate measures must be in place to survive at -26.0°C."
+        ]
+    },
+    {
+        "min_temp": -25.75,
+        "max_temp": -25.5,
+        "facts": [
+            "-25.75°C can freeze standing water within a short time.",
+            "Severe cold weather gear is necessary at -25.75°C."
+        ]
+    },
+    {
+        "min_temp": -25.5,
+        "max_temp": -25.25,
+        "facts": [
+            "-25.5°C requires vigilant monitoring of environmental conditions.",
+            "Without proper heating, -25.5°C can become life-threatening."
+        ]
+    },
+    {
+        "min_temp": -25.25,
+        "max_temp": -25.0,
+        "facts": [
+            "-25.25°C makes it essential to have constant heating.",
+            "Proper thermal wear can be a matter of life and death at -25.25°C."
+        ]
+    },
+    {
+        "min_temp": -25.0,
+        "max_temp": -24.75,
+        "facts": [
+            "-25.0°C is extremely cold, requiring constant heating to maintain livable conditions.",
+            "Frostbite is a significant risk at -25.0°C without adequate protection."
+        ]
+    },
+    {
+        "min_temp": -24.75,
+        "max_temp": -24.5,
+        "facts": [
+            "-24.75°C can freeze exposed skin rapidly without appropriate clothing.",
+            "At -24.75°C, constant thermal protection is required to survive."
+        ]
+    },
+    {
+        "min_temp": -24.5,
+        "max_temp": -24.25,
+        "facts": [
+            "-24.5°C demands high-performance heating systems to avoid freezing.",
+            "Cold-related injuries can occur quickly at -24.5°C without proper protection."
+        ]
+    },
+    {
+        "min_temp": -24.25,
+        "max_temp": -24.0,
+        "facts": [
+            "-24.25°C requires advanced heating systems to maintain a livable environment.",
+            "Frostbite and hypothermia are major risks at -24.25°C."
+        ]
+    },
+    {
+        "min_temp": -24.0,
+        "max_temp": -23.75,
+        "facts": [
+            "-24.0°C presents significant challenges for heating and insulation systems.",
+            "Outdoor activities should be minimized at -24.0°C."
+        ]
+    },
+    {
+        "min_temp": -23.75,
+        "max_temp": -23.5,
+        "facts": [
+            "-23.75°C can cause severe cold-related injuries without continuous heating.",
+            "At -23.75°C, proper cold weather gear is crucial for safety."
+        ]
+    },
+    {
+        "min_temp": -23.5,
+        "max_temp": -23.25,
+        "facts": [
+            "-23.5°C requires advanced thermal management to prevent freezing and frostbite.",
+            "Quality heating systems are essential to endure -23.5°C."
+        ]
+    },
+    {
+        "min_temp": -23.25,
+        "max_temp": -23.0,
+        "facts": [
+            "-23.25°C can lead to frostbite within minutes without proper clothing.",
+            "Heating equipment must be high-performance at -23.25°C."
+        ]
+    },
+    {
+        "min_temp": -23.0,
+        "max_temp": -22.75,
+        "facts": [
+            "-23.0°C requires superior thermal wear to prevent cold injuries.",
+            "Survival at -23.0°C depends on efficient heating solutions."
+        ]
+    },
+    {
+        "min_temp": -22.75,
+        "max_temp": -22.5,
+        "facts": [
+            "-22.75°C can freeze exposed flesh in a very short time.",
+            "Proper insulation is mandatory for buildings and clothing at -22.75°C."
+        ]
+    },
+    {
+        "min_temp": -22.5,
+        "max_temp": -22.25,
+        "facts": [
+            "-22.5°C requires layered clothing to sustain warmth.",
+            "Advanced heating systems are necessary for survival at -22.5°C."
+        ]
+    },
+    {
+        "min_temp": -22.25,
+        "max_temp": -22.0,
+        "facts": [
+            "-22.25°C demands constant heating to avoid life-threatening cold injuries.",
+            "Frostbite risk is high at -22.25°C without proper protection."
+        ]
+    },
+    {
+        "min_temp": -22.0,
+        "max_temp": -21.75,
+        "facts": [
+            "-22.0°C can cause severe hypothermia if not properly managed.",
+            "Efficient heating and thermal insulation are critical at -22.0°C."
+        ]
+    },
+    {
+        "min_temp": -21.75,
+        "max_temp": -21.5,
+        "facts": [
+            "-21.75°C requires specialized outdoor gear to prevent cold injuries.",
+            "Appropriate measures must be taken to ensure safety at -21.75°C."
+        ]
+    },
+    {
+        "min_temp": -21.5,
+        "max_temp": -21.25,
+        "facts": [
+            "-21.5°C can freeze exposed surfaces quickly.",
+            "Heavy-duty heating systems are crucial to handle -21.5°C."
+        ]
+    },
+    {
+        "min_temp": -21.25,
+        "max_temp": -21.0,
+        "facts": [
+            "-21.25°C demands substantial thermal protection for any outdoor activity.",
+            "Constant heating is necessary to maintain livable conditions at -21.25°C."
+        ]
+    },
+    {
+        "min_temp": -21.0,
+        "max_temp": -20.75,
+        "facts": [
+            "-21.0°C is intensely cold, necessitating continuous heating and insulation.",
+            "Proper winter gear is essential at -21.0°C to avoid frostbite."
+        ]
+    },
+    {
+        "min_temp": -20.75,
+        "max_temp": -20.5,
+        "facts": [
+            "At -20.75°C, industrial processes and infrastructure can face significant challenges without proper winterization.",
+            "-20.75°C is a temperature that requires extreme cold weather survival skills and clothing."
+        ]
+    },
+    {
+        "min_temp": -20.5,
+        "max_temp": -20.25,
+        "facts": [
+            "-20.5°C is often recorded in the interior of large northern continents during winter.",
+            "At -20.5°C, exposed skin can freeze within minutes, necessitating full coverage."
+        ]
+    },
+    {
+        "min_temp": -20.25,
+        "max_temp": -20.0,
+        "facts": [
+            "-20.25°C is a severe cold temperature that can cause immediate frostbite and hypothermia.",
+            "Proper insulation and powerful heating systems are critical to maintain warmth at -20.25°C."
+        ]
+    },
+    {
+        "min_temp": -20.0,
+        "max_temp": -19.75,
+        "facts": [
+            "-20°C can be commonly experienced during severe winter weather in Arctic and Antarctic regions.",
+            "Many outdoor activities become highly dangerous at -20°C and require special gear."
+        ]
+    },
+    {
+        "min_temp": -19.75,
+        "max_temp": -19.5,
+        "facts": [
+            "-19.75°C is extremely cold, making it critical to layer clothing to retain body heat.",
+            "Machinery and vehicles need special antifreeze agents to operate at -19.75°C."
+        ]
+    },
+    {
+        "min_temp": -19.5,
+        "max_temp": -19.25,
+        "facts": [
+            "-19.5°C can cause rapid onset of frostbite in exposed skin and extremities.",
+            "Heating systems work continuously at -19.5°C to maintain indoor temperatures."
+        ]
+    },
+    {
+        "min_temp": -19.25,
+        "max_temp": -19.0,
+        "facts": [
+            "-19.25°C is dangerous for prolonged exposure without proper winter clothing.",
+            "Winter activities at -19.25°C require extreme caution and preparation."
+        ]
+    },
+    {
+        "min_temp": -19.0,
+        "max_temp": -18.75,
+        "facts": [
+            "-19°C is a harsh temperature condition often seen in northern latitudes during winter.",
+            "Insulated buildings and winter gear are essential to endure -19°C."
+        ]
+    },
+    {
+        "min_temp": -18.75,
+        "max_temp": -18.5,
+        "facts": [
+            "-18.75°C can cause severe discomfort and health risks without adequate protection.",
+            "At -18.75°C, antifreeze is crucial for vehicle operation to prevent engine damage."
+        ]
+    },
+    {
+        "min_temp": -18.5,
+        "max_temp": -18.25,
+        "facts": [
+            "-18.5°C is a cold extreme that requires special precautions to maintain safety.",
+            "Freezing temperatures like -18.5°C can cause pipes to burst without proper insulation."
+        ]
+    },
+    {
+        "min_temp": -18.25,
+        "max_temp": -18.0,
+        "facts": [
+            "-18.25°C is a temperature that demands good quality winter gear to stay safe outdoors.",
+            "Many heating systems are designed to cope with temperatures as low as -18.25°C."
+        ]
+    },
+    {
+        "min_temp": -18.0,
+        "max_temp": -17.75,
+        "facts": [
+            "-18°C is a temperature that can be encountered during severe cold snaps in subarctic regions.",
+            "Extensive insulation and heating are critical at -18°C to prevent indoor frost."
+        ]
+    },
+    {
+        "min_temp": -17.75,
+        "max_temp": -17.5,
+        "facts": [
+            "-17.75°C requires high levels of preparation to ensure both human and animal safety.",
+            "Vehicles often need special winter tires and fluids to operate at -17.75°C."
+        ]
+    },
+    {
+        "min_temp": -17.5,
+        "max_temp": -17.25,
+        "facts": [
+            "-17.5°C is a severe cold temperature that significantly impacts daily life and activities.",
+            "Thermal clothing and multiple layers of insulation are vital at -17.5°C."
+        ]
+    },
+    {
+        "min_temp": -17.25,
+        "max_temp": -17.0,
+        "facts": [
+            "-17.25°C often leads to icy conditions on roads and walkways, requiring careful navigation.",
+            "Maintaining a stable indoor temperature becomes challenging at -17.25°C without efficient heating."
+        ]
+    },
+    {
+        "min_temp": -17.0,
+        "max_temp": -16.75,
+        "facts": [
+            "-17°C can cause frostbite to exposed skin within minutes without proper protection.",
+            "Specialized infrastructure and utilities are necessary to function properly at -17°C."
+        ]
+    },
+    {
+        "min_temp": -16.75,
+        "max_temp": -16.5,
+        "facts": [
+            "-16.75°C is cold enough to require continuous heating to keep indoor spaces habitable.",
+            "Outdoor activities at -16.75°C are risky without advanced winter gear."
+        ]
+    },
+    {
+        "min_temp": -16.5,
+        "max_temp": -16.25,
+        "facts": [
+            "-16.5°C can quickly lead to cold injuries like frostnip and hypothermia if unprepared.",
+            "Heating systems must be efficient and reliable to withstand -16.5°C temperatures."
+        ]
+    },
+    {
+        "min_temp": -16.25,
+        "max_temp": -16.0,
+        "facts": [
+            "-16.25°C can result in significant frost buildup on windows and other surfaces.",
+            "Maintaining body temperature requires careful management of clothing layers at -16.25°C."
+        ]
+    },
+    {
+        "min_temp": -16.0,
+        "max_temp": -15.75,
+        "facts": [
+            "-16°C is common in many cold regions during the peak of winter.",
+            "At -16°C, vehicles often require block heaters to start engines effectively."
+        ]
+    },
+    {
+        "min_temp": -15.75,
+        "max_temp": -15.5,
+        "facts": [
+            "-15.75°C necessitates continuous heating and insulation to maintain livable indoor temperatures.",
+            "Outdoors, frostbite can develop rapidly at -15.75°C without proper attire."
+        ]
+    },
+    {
+        "min_temp": -15.5,
+        "max_temp": -15.25,
+        "facts": [
+            "-15.5°C is dangerous for prolonged exposure without full winter protection.",
+            "Survival in the open becomes challenging at -15.5°C without preparation."
+        ]
+    },
+    {
+        "min_temp": -15.25,
+        "max_temp": -15.0,
+        "facts": [
+            "-15.25°C is common in many Arctic regions and requires substantial insulation for both buildings and clothing.",
+            "Vehicles need to be winterized to be functional at -15.25°C."
+        ]
+    },
+    {
+        "min_temp": -15.0,
+        "max_temp": -14.75,
+        "facts": [
+            "-15°C is often experienced in northern and continental climates during winter.",
+            "Extreme caution is necessary to avoid frostbite and hypothermia at -15°C."
+        ]
+    },
+    {
+        "min_temp": -14.75,
+        "max_temp": -14.5,
+        "facts": [
+            "-14.75°C can cause rapid frost formation, necessitating frequent clearing of pathways.",
+            "Heating becomes crucial to prevent indoor pipes from freezing at -14.75°C."
+        ]
+    },
+    {
+        "min_temp": -14.5,
+        "max_temp": -14.25,
+        "facts": [
+            "-14.5°C is a temperature that demands constant heating to maintain livable spaces.",
+            "Efficient thermal wear is essential to retain body heat at -14.5°C."
+        ]
+    },
+    {
+        "min_temp": -14.25,
+        "max_temp": -14.0,
+        "facts": [
+            "-14.25°C is frequently encountered in high-altitude and high-latitude regions during winter.",
+            "Proper insulation and heating systems are vital to endure -14.25°C."
+        ]
+    },
+    {
+        "min_temp": -14.0,
+        "max_temp": -13.75,
+        "facts": [
+            "-14°C is typical in many cold regions and necessitates careful preparation.",
+            "Frostbite can occur in less than 30 minutes at -14°C without adequate protection."
+        ]
+    },
+    {
+        "min_temp": -13.75,
+        "max_temp": -13.5,
+        "facts": [
+            "-13.75°C requires comprehensive insulation and heating to maintain indoor temperatures.",
+            "Cold weather gear, including hats and gloves, is essential at -13.75°C."
+        ]
+    },
+    {
+        "min_temp": -13.5,
+        "max_temp": -13.25,
+        "facts": [
+            "-13.5°C is a temperature that can freeze standing water and create slippery conditions.",
+            "Preparation and appropriate clothing are key to staying warm at -13.5°C."
+        ]
+    },
+    {
+        "min_temp": -13.25,
+        "max_temp": -13.0,
+        "facts": [
+            "-13.25°C can lead to dangerous frost formations on surfaces and vehicles.",
+            "Strong heating systems are necessary to cope with -13.25°C temperatures."
+        ]
+    },
+    {
+        "min_temp": -13.0,
+        "max_temp": -12.75,
+        "facts": [
+            "-13°C is a common temperature in many winter climates across the globe.",
+            "At -13°C, vehicles require winterization and special coolants to remain functional."
+        ]
+    },
+    {
+        "min_temp": -12.75,
+        "max_temp": -12.5,
+        "facts": [
+            "-12.75°C demands careful attention to insulation and heating in both homes and vehicles.",
+            "Exposure to -12.75°C without protection can quickly lead to frostbite."
+        ]
+    },
+    {
+        "min_temp": -12.5,
+        "max_temp": -12.25,
+        "facts": [
+            "-12.5°C is often experienced during cold spells in high-latitude regions.",
+            "Thermal wear and insulated footwear are necessary at -12.5°C to maintain body heat."
+        ]
+    },
+    {
+        "min_temp": -12.25,
+        "max_temp": -12.0,
+        "facts": [
+            "-12.25°C requires intense preparation to ensure both human and structural safety.",
+            "Buildings need robust insulation and heating systems to cope with -12.25°C."
+        ]
+    },
+    {
+        "min_temp": -12.0,
+        "max_temp": -11.75,
+        "facts": [
+            "-12°C can lead to severe cold stress and potential frostbite in unprotected skin.",
+            "Effective heating becomes critical to prevent freezing at -12°C."
+        ]
+    },
+    {
+        "min_temp": -11.75,
+        "max_temp": -11.5,
+        "facts": [
+            "-11.75°C demands specialized clothing and footwear to protect against the cold.",
+            "Vehicles require block heaters and antifreezes at -11.75°C to remain operational."
+        ]
+    },
+    {
+        "min_temp": -11.5,
+        "max_temp": -11.25,
+        "facts": [
+            "-11.5°C can cause rapid ice buildup on roads and walkways, increasing slip hazards.",
+            "At -11.5°C, proper insulation is essential to maintain indoor comfortable temperatures."
+        ]
+    },
+    {
+        "min_temp": -11.25,
+        "max_temp": -11.0,
+        "facts": [
+            "-11.25°C is common in many northern regions during the winter and necessitates adequate preparation.",
+            "Frostbite can occur within 20-30 minutes of exposure to -11.25°C without proper protection."
+        ]
+    },
+    {
+        "min_temp": -11.0,
+        "max_temp": -10.75,
+        "facts": [
+            "-11°C is a temperature that requires constant heating to avoid indoor freezing.",
+            "Winter activities and jobs at -11°C require specialized clothing and preparations."
+        ]
+    },
+    {
+        "min_temp": -10.75,
+        "max_temp": -10.5,
+        "facts": [
+            "Many Arctic and Antarctic animals have adapted to survive temperatures as low as -10.75°C.",
+            "Outdoor activities without proper winter gear are highly challenging at -10.75°C."
+        ]
+    },
+    {
+        "min_temp": -10.75,
+        "max_temp": -10.5,
+        "facts": [
+            "Many Arctic and Antarctic animals have adapted to survive temperatures as low as -10.75°C.",
+            "Outdoor activities without proper winter gear are highly challenging at -10.75°C."
+        ]
+    },
+    {
+        "min_temp": -10.5,
+        "max_temp": -10.25,
+        "facts": [
+            "-10.5°C is a temperature experienced during extreme winter storms in northern latitudes.",
+            "Human skin can freeze within minutes when exposed to -10.5°C without protection."
+        ]
+    },
+    {
+        "min_temp": -10.25,
+        "max_temp": -10.0,
+        "facts": [
+            "-10.25°C is a temperature that can cause extreme frostbite if exposed unprotected.",
+            "Managing infrastructure at -10.25°C requires significant heating and insulation."
+        ]
+    },
+    {
+        "min_temp": -10.0,
+        "max_temp": -9.75,
+        "facts": [
+            "-10°C is a common temperature in many parts of Canada, Russia, and Scandinavia during winter.",
+            "At -10°C, machinery and vehicles require antifreeze solutions to operate correctly."
+        ]
+    },
+    {
+        "min_temp": -9.75,
+        "max_temp": -9.5,
+        "facts": [
+            "-9.75°C can cause ice to form on roads and pavements rapidly, increasing the risk of accidents.",
+            "Heating systems become crucial at -9.75°C to maintain indoor temperatures."
+        ]
+    },
+    {
+        "min_temp": -9.5,
+        "max_temp": -9.25,
+        "facts": [
+            "-9.5°C is a temperature that requires proper winter clothing to avoid hypothermia.",
+            "At -9.5°C, many plants enter a dormant state to survive the cold."
+        ]
+    },
+    {
+        "min_temp": -9.25,
+        "max_temp": -9.0,
+        "facts": [
+            "-9.25°C can lead to significant heating costs for homes and businesses.",
+            "-9.25°C is a temperature at which exposed skin can get frostbitten within 30 minutes."
+        ]
+    },
+    {
+        "min_temp": -9.0,
+        "max_temp": -8.75,
+        "facts": [
+            "-9°C is a common temperature in high-altitude areas during winter months.",
+            "Specialized clothing and layers are necessary to maintain body heat at -9°C."
+        ]
+    },
+    {
+        "min_temp": -8.75,
+        "max_temp": -8.5,
+        "facts": [
+            "-8.75°C is a temperature that can cause water pipes to freeze and burst if not insulated.",
+            "Outdoor activities are risky at -8.75°C without proper thermal protection."
+        ]
+    },
+    {
+        "min_temp": -8.5,
+        "max_temp": -8.25,
+        "facts": [
+            "-8.5°C is typical in northern continental climates during wintertime.",
+            "At -8.5°C, snow and ice can persist on the ground for long periods."
+        ]
+    },
+    {
+        "min_temp": -8.25,
+        "max_temp": -8.0,
+        "facts": [
+            "-8.25°C requires significant heating and insulation in buildings to maintain warmth.",
+            "Hypothermia can set in quickly at -8.25°C without adequate clothing."
+        ]
+    },
+    {
+        "min_temp": -8.0,
+        "max_temp": -7.75,
+        "facts": [
+            "-8°C is a cold temperature but common in many higher latitude and higher altitude regions.",
+            "At -8°C, exposed water sources begin to freeze solid."
+        ]
+    },
+    {
+        "min_temp": -7.75,
+        "max_temp": -7.5,
+        "facts": [
+            "-7.75°C can cause frost to form on windows and other surfaces.",
+            "Specialty winter gear is essential to prevent frostbite at -7.75°C."
+        ]
+    },
+    {
+        "min_temp": -7.5,
+        "max_temp": -7.25,
+        "facts": [
+            "-7.5°C is typical for cold spells in many parts of Europe during winter.",
+            "At -7.5°C, roads and walkways require regular salting to prevent ice buildup."
+        ]
+    },
+    {
+        "min_temp": -7.25,
+        "max_temp": -7.0,
+        "facts": [
+            "-7.25°C is a temperature at which many cold-weather animals begin to seek shelter.",
+            "Outdoor machinery often requires special lubrication at -7.25°C to operate effectively."
+        ]
+    },
+    {
+        "min_temp": -7.0,
+        "max_temp": -6.75,
+        "facts": [
+            "-7°C is common during winter in many temperate regions and requires adequate preparation.",
+            "Water sources begin to freeze over at -7°C, affecting both wildlife and human activities."
+        ]
+    },
+    {
+        "min_temp": -6.75,
+        "max_temp": -6.5,
+        "facts": [
+            "-6.75°C can cause considerable discomfort without thermal clothing.",
+            "At -6.75°C, engine block heaters are often needed to start vehicles."
+        ]
+    },
+    {
+        "min_temp": -6.5,
+        "max_temp": -6.25,
+        "facts": [
+            "-6.5°C is commonly experienced in high latitude regions during winter.",
+            "Heating systems work overtime at -6.5°C to keep indoor environments warm."
+        ]
+    },
+    {
+        "min_temp": -6.25,
+        "max_temp": -6.0,
+        "facts": [
+            "-6.25°C can lead to frostbite on exposed skin if not properly protected.",
+            "Winter sports enthusiasts often experience -6.25°C as a typical temperature on ski slopes."
+        ]
+    },
+    {
+        "min_temp": -6.0,
+        "max_temp": -5.75,
+        "facts": [
+            "-6°C is a cold temperature that demands winter clothing and preparation.",
+            "Infrastructure, like roads and bridges, can be adversely affected by freezing at -6°C."
+        ]
+    },
+    {
+        "min_temp": -5.75,
+        "max_temp": -5.5,
+        "facts": [
+            "-5.75°C is a typical winter temperature in many northern and continental regions.",
+            "Outdoor activities at -5.75°C require appropriate thermal gear to prevent hypothermia."
+        ]
+    },
+    {
+        "min_temp": -5.5,
+        "max_temp": -5.25,
+        "facts": [
+            "-5.5°C is cold enough to cause freezing of water pipes if not properly insulated.",
+            "Buildings require significant insulation to maintain warmth at -5.5°C."
+        ]
+    },
+    {
+        "min_temp": -5.25,
+        "max_temp": -5.0,
+        "facts": [
+            "-5.25°C can cause ice to form on surfaces, increasing slip hazards.",
+            "Proper outerwear is essential at -5.25°C to retain body heat."
+        ]
+    },
+    {
+        "min_temp": -5.0,
+        "max_temp": -4.75,
+        "facts": [
+            "-5°C is a common winter temperature in many temperate and cold regions.",
+            "At -5°C, many animals have adapted survival strategies such as hibernation or migration."
+        ]
+    },
+    {
+        "min_temp": -4.75,
+        "max_temp": -4.5,
+        "facts": [
+            "-4.75°C can cause discomfort and frostbite in exposed skin if not protected.",
+            "Snow accumulation is common at -4.75°C, requiring regular clearing on roads and pavements."
+        ]
+    },
+    {
+        "min_temp": -4.5,
+        "max_temp": -4.25,
+        "facts": [
+            "-4.5°C is experienced in many mid-latitude regions during the winter season.",
+            "Vehicles may require engine block heaters to start in -4.5°C temperatures."
+        ]
+    },
+    {
+        "min_temp": -4.25,
+        "max_temp": -4.0,
+        "facts": [
+            "-4.25°C can freeze standing water and cause dangerous driving conditions.",
+            "Winter clothing, like gloves and hats, becomes essential at -4.25°C to maintain comfort."
+        ]
+    },
+    {
+        "min_temp": -4.0,
+        "max_temp": -3.75,
+        "facts": [
+            "-4°C is a temperature where frost can form on plants, affecting agriculture.",
+            "Indoor heating is crucial at -4°C to maintain a comfortable living environment."
+        ]
+    },
+    {
+        "min_temp": -3.75,
+        "max_temp": -3.5,
+        "facts": [
+            "-3.75°C can cause significant risk of hypothermia if exposed without protection.",
+            "Warm clothing and insulated footwear are necessary at -3.75°C."
+        ]
+    },
+    {
+        "min_temp": -3.5,
+        "max_temp": -3.25,
+        "facts": [
+            "-3.5°C is experienced in many regions with continental climates during winter.",
+            "Proper insulation in homes is essential to keep warmth at -3.5°C."
+        ]
+    },
+    {
+        "min_temp": -3.25,
+        "max_temp": -3.0,
+        "facts": [
+            "-3.25°C can cause frost to develop on cars and other surfaces overnight.",
+            "At -3.25°C, it becomes challenging to maintain body heat without adequate clothing."
+        ]
+    },
+    {
+        "min_temp": -3.0,
+        "max_temp": -2.75,
+        "facts": [
+            "-3°C is a common temperature for winter activities like skiing and snowboarding.",
+            "Precautions like salting walkways are necessary at -3°C to prevent slipping hazards."
+        ]
+    },
+    {
+        "min_temp": -2.75,
+        "max_temp": -2.5,
+        "facts": [
+            "-2.75°C can lead to cold stress if exposed for prolonged periods without protection.",
+            "At -2.75°C, indoor heating becomes a priority to keep living spaces warm."
+        ]
+    },
+    {
+        "min_temp": -2.5,
+        "max_temp": -2.25,
+        "facts": [
+            "-2.5°C is typical during early winter and late spring frosts in temperate zones.",
+            "Insulating exposed water pipes becomes essential at -2.5°C to prevent freezing."
+        ]
+    },
+    {
+        "min_temp": -2.25,
+        "max_temp": -2.0,
+        "facts": [
+            "-2.25°C can cause frostbite in exposed skin after prolonged exposure.",
+            "Greenhouses and agricultural practices must account for -2.25°C to prevent crop damage."
+        ]
+    },
+    {
+        "min_temp": -2.0,
+        "max_temp": -1.75,
+        "facts": [
+            "-2°C is a temperature that warrants the use of antifreeze in vehicles.",
+            "Winter sports like ice skating and snowshoeing are popular at -2°C."
+        ]
+    },
+    {
+        "min_temp": -1.75,
+        "max_temp": -1.5,
+        "facts": [
+            "-1.75°C can result in frost forming on outdoor surfaces and vehicles.",
+            "Proper winter attire, including thermal layers, is necessary to stay warm at -1.75°C."
+        ]
+    },
+    {
+        "min_temp": -1.5,
+        "max_temp": -1.25,
+        "facts": [
+            "-1.5°C is a cool temperature that marks the onset of winter in many regions.",
+            "At -1.5°C, energy consumption for heating increases significantly."
+        ]
+    },
+    {
+        "min_temp": -1.25,
+        "max_temp": -1.0,
+        "facts": [
+            "-1.25°C is a temperature where frost can be seen on plants and the ground.",
+            "Appropriate footwear and clothing become essential to maintain body heat at -1.25°C."
+        ]
+    },
+    {
+        "min_temp": -1.0,
+        "max_temp": -0.75,
+        "facts": [
+            "-1°C is common for winter mornings in many mid-latitude regions.",
+            "Heating systems start running frequently at -1°C to maintain indoor comfort."
+        ]
+    },
+    {
+        "min_temp": -0.75,
+        "max_temp": -0.5,
+        "facts": [
+            "-0.75°C can cause thin ice layers to form on water bodies.",
+            "At -0.75°C, frost forms easily on surfaces, and roads can become slippery."
+        ]
+    },
+    {
+        "min_temp": -0.5,
+        "max_temp": -0.25,
+        "facts": [
+            "-0.5°C is a temperature where light frost begins to form on outdoor surfaces.",
+            "Winter attire, such as coats and gloves, is necessary to stay warm at -0.5°C."
+        ]
+    },
+    {
+        "min_temp": -0.25,
+        "max_temp": 0.0,
+        "facts": [
+            "-0.25°C is just below the freezing point and can cause frost to develop overnight.",
+            "It's important to wear warm clothing at -0.25°C to prevent cold stress."
+        ]
+    },
+    {
+        "min_temp": 0.0,
+        "max_temp": 0.25,
+        "facts": [
+            "Water freezes at 0°C (32°F).",
+            "Ice hockey is typically played on ice at temperatures around 0°C."
+        ]
+    },
+    {
+        "min_temp": 0.25,
+        "max_temp": 0.5,
+        "facts": [
+            "At 0.25°C, it's just slightly above the freezing point of water.",
+            "Snow can begin to slightly melt at this temperature."
+        ]
+    },
+    {
+        "min_temp": 0.5,
+        "max_temp": 0.75,
+        "facts": [
+            "Polar bear fur can provide enough insulation to survive in -40°C but they thrive in temperatures around 0.5°C.",
+            "Lakes and ponds start to freeze over at temperatures below 5°C."
+        ]
+    },
+    {
+        "min_temp": 0.75,
+        "max_temp": 1.0,
+        "facts": [
+            "Whale blubber can help these giants maintain their body temperature in waters as cold as 0.75°C.",
+            "Ice fishing is best done at temperatures around 0.75°C to ensure the ice is solid."
+        ]
+    },
+    {
+        "min_temp": 1.0,
+        "max_temp": 1.25,
+        "facts": [
+            "The solidification point of silver is -1.0°C lower than mercury.",
+            "The Siberian Husky's coat is made to endure temperatures as cold as -30°C but they feel comfortable starting from around 1°C."
+        ]
+    },
+    {
+        "min_temp": 1.25,
+        "max_temp": 1.5,
+        "facts": [
+            "Antarctic krill thrive in waters as cold as 1.25°C.",
+            "Snowflakes form in the atmosphere when the temperature is around -2°C but stay intact until reaching temperatures around 1°C."
+        ]
+    },
+    {
+        "min_temp": 1.5,
+        "max_temp": 1.75,
+        "facts": [
+            "Some species of bacteria can remain active at temperatures as cold as 1.5°C.",
+            "Frost starts forming on windshields at temperatures around -1°C to 1.5°C."
+        ]
+    },
+    {
+        "min_temp": 1.75,
+        "max_temp": 2.0,
+        "facts": [
+            "The temperature at which warm-blooded animals like penguins can still remain comfortable.",
+            "Permafrost regions can start at ground temperatures around 1.75°C."
+        ]
+    },
+    {
+        "min_temp": 2.0,
+        "max_temp": 2.25,
+        "facts": [
+            "The limit of temperature rise to prevent severe impacts of climate according to the Paris Agreement.",
+            "Alpine plants can grow as long as the soil temperatures stay above 2°C."
+        ]
+    },
+    {
+        "min_temp": 2.25,
+        "max_temp": 2.5,
+        "facts": [
+            "Some lichen and moss species begin to grow at temperatures around 2.25°C.",
+            "Trout and salmon require water temperatures between 1°C to 3°C for optimal spawning."
+        ]
+    },
+    {
+        "min_temp": 2.5,
+        "max_temp": 2.75,
+        "facts": [
+            "2.5°C is below average refrigerator temperature, which is typically around 3.3°C to 4.4°C.",
+            "Arctic foxes start growing their thicker winter fur when temperatures drop to around 2.5°C."
+        ]
+    },
+    {
+        "min_temp": 2.75,
+        "max_temp": 3.0,
+        "facts": [
+            "At 2.75°C, certain motor oil grades begin to lose their efficiency.",
+            "Migratory birds can start to journey through temperate regions when temperatures hit around 2.75°C."
+        ]
+    },
+    {
+        "min_temp": 3.0,
+        "max_temp": 3.25,
+        "facts": [
+            "Wine can suffer from 'cold damage' at temperatures around 3°C.",
+            "Earthworms become inactive at temperatures below 3°C."
+        ]
+    },
+    {
+        "min_temp": 3.25,
+        "max_temp": 3.5,
+        "facts": [
+            "Some amphibians, like the European tree frog, can endure temperatures around 3.25°C.",
+            "Ground temperature at this level can support the growth of hardy winter vegetables."
+        ]
+    },
+    {
+        "min_temp": 3.5,
+        "max_temp": 3.75,
+        "facts": [
+            "Water is densest at 4°C, allowing it to sink and cycle nutrients in lakes.",
+            "Bears begin hibernating if temperatures consistently stay around 3.5°C in their soon to be caves."
+        ]
+    },
+    {
+        "min_temp": 3.75,
+        "max_temp": 4.0,
+        "facts": [
+            "Water temperature around 3.75°C can support polar bears swimming without significant heat loss.",
+            "The Arctic Ocean surface water rarely goes above 3.75°C even in summer."
+        ]
+    },
+    {
+        "min_temp": 4.0,
+        "max_temp": 4.25,
+        "facts": [
+            "Water achieves maximum density at 4°C, this is when the turnover in lakes occurs.",
+            "Snow can only form and stay compact when temperatures are around 4°C and below."
+        ]
+    },
+    {
+        "min_temp": 4.25,
+        "max_temp": 4.5,
+        "facts": [
+            "At 4.25°C, certain refrigerator settings may help in maintaining optimal freshness of foods.",
+            "Hardy winter crops like kale can survive at these temperatures."
+        ]
+    },
+    {
+        "min_temp": 4.5,
+        "max_temp": 4.75,
+        "facts": [
+            "King penguins often endure temperatures around 4.5°C in their habitat.",
+            "Biological processes in dormant trees slow as ambient temperatures reach approximately 4.5°C."
+        ]
+    },
+    {
+        "min_temp": 4.75,
+        "max_temp": 5.0,
+        "facts": [
+            "The North Sea average temperature is approximately 6°C but can drop to around 4.75°C in winter.",
+            "Ground bees begin hibernating when the temperature drops below 4.75°C."
+        ]
+    },
+    {
+        "min_temp": 5.0,
+        "max_temp": 5.25,
+        "facts": [
+            "Common refrigerator settings are around 5°C to keep food fresh.",
+            "Coral reefs can only survive in waters no colder than around 20°C, far above 5°C."
+        ]
+    },
+    {
+        "min_temp": 5.25,
+        "max_temp": 5.5,
+        "facts": [
+            "Earthworms rarely come to the surface once temperatures drop to around 5.25°C.",
+            "Migratory birds like geese start leaving temperate zones for warmer climates as temperatures dip below 5.25°C."
+        ]
+    },
+    {
+        "min_temp": 5.5,
+        "max_temp": 5.75,
+        "facts": [
+            "Icebergs begin to form when air temperatures are around 5.5°C.",
+            "Trees shed their leaves to prevent water loss when temperatures hover around 5.5°C."
+        ]
+    },
+    {
+        "min_temp": 5.75,
+        "max_temp": 6.0,
+        "facts": [
+            "At 5.75°C, plant roots slow down their absorption rates, conserving energy for winter.",
+            "Some invertebrates like certain molluscs can survive in water temperatures as low as 5.75°C."
+        ]
+    },
+    {
+        "min_temp": 6.0,
+        "max_temp": 6.25,
+        "facts": [
+            "The average ocean temperature tends to be around 2°C to 3°C but the Antarctic Ocean surface temperature rarely rises above 6°C.",
+            "Many temperate coniferous forests thrive in temperatures around 6°C."
+        ]
+    },
+  {
+        "min_temp": 6.25,
+        "max_temp": 6.5,
+        "facts": [
+            "Certain species of fish, like the Antarctic icefish, have antifreeze proteins and thrive in waters around 6.25°C.",
+            "Some seaweeds can endure and thrive around 6.25°C near polar regions."
+        ]
+    },
+    {
+        "min_temp": 6.5,
+        "max_temp": 6.75,
+        "facts": [
+            "The Titanic sank into the ocean where the water temperature was around 2°C but it can still be as low as 6.5°C.",
+            "Some mollusks can tolerate and survive in water temperatures as low as 6.5°C."
+        ]
+    },
+    {
+        "min_temp": 6.75,
+        "max_temp": 7.0,
+        "facts": [
+            "At 6.75°C, certain varieties of robust apples can maintain their freshness.",
+            "Japanese macaques, known as snow monkeys, thrive in temperatures even below this, but 6.75°C is still on the chillier side for them."
+        ]
+    },
+    {
+        "min_temp": 7.0,
+        "max_temp": 7.25,
+        "facts": [
+            "Lake Baikal in Russia, the deepest lake in the world, has an average temperature of 7°C from May through August.",
+            "Salmon swim better in water temperatures around 7°C."
+        ]
+    },
+    {
+        "min_temp": 7.25,
+        "max_temp": 7.5,
+        "facts": [
+            "Cold deserts like the Gobi Desert can have temperatures that drop to around 7.25°C at night.",
+            "Certain strains of cabbage and kale germinate optimally at soil temperatures around 7.25°C."
+        ]
+    },
+    {
+        "min_temp": 7.5,
+        "max_temp": 7.75,
+        "facts": [
+            "The ideal storage temperature for many fruits is around 7.5°C.",
+            "Penguin rookeries can often be found in areas where the ground temperature hovers around 7.5°C."
+        ]
+    },
+    {
+        "min_temp": 7.75,
+        "max_temp": 8.0,
+        "facts": [
+            "Brown trout begin their spawning migration in river temperatures around 7.75°C.",
+            "Jellyfish blooms, which occur in colder ocean temperatures, can thrive around 7.75°C."
+        ]
+    },
+    {
+        "min_temp": 8.0,
+        "max_temp": 8.25,
+        "facts": [
+            "The Loch Ness in Scotland, home to the legendary Nessie, maintains water temperatures around 8°C.",
+            "Tulips are planted in the fall when soil temperatures are around 8°C."
+        ]
+    },
+    {
+        "min_temp": 8.25,
+        "max_temp": 8.5,
+        "facts": [
+            "Winter wheat begins its germination process when soil temperatures are around 8.25°C.",
+            "Many freshwater fish species, such as bass, thrive in water temperatures around 8.25°C."
+        ]
+    },
+    {
+        "min_temp": 8.5,
+        "max_temp": 8.75,
+        "facts": [
+            "Ice shanties in colder climates maintain inside temperatures around 8.5°C for comfort without causing ice melting.",
+            "Arctic tern migratory flights experience stopovers in areas with land temperatures near 8.5°C."
+        ]
+    },
+    {
+        "min_temp": 8.75,
+        "max_temp": 9.0,
+        "facts": [
+            "The average temperature of the world's oceans is approximately 3.5°C, with colder regions like the Arctic Ocean reaching temperatures around 8.75°C.",
+            "At 9°C, the top cataracts of Angel Falls, Venezuela, often mist into a cloud due to rapid temperature changes."
+        ]
+    },
+    {
+        "min_temp": 9.0,
+        "max_temp": 9.25,
+        "facts": [
+            "Certain types of grapes used in ice wine are harvested at temperatures just above freezing, such as around 9°C.",
+            "Moss growth is consistently observed starting from temperatures around 9°C upwards."
+        ]
+    },
+    {
+        "min_temp": 9.25,
+        "max_temp": 9.5,
+        "facts": [
+            "The temperature inside a glacier can sometimes be around 9.25°C closer to the surface in warmer seasons.",
+            "Woolly bear caterpillars remain active and can be seen at temperatures around 9.25°C."
+        ]
+    },
+    {
+        "min_temp": 9.5,
+        "max_temp": 9.75,
+        "facts": [
+            "Pacific salmon return to their spawning grounds in water temperatures around 9.5°C to 10°C.",
+            "Meerkats of the Kalahari begin their day-basking activities from temperatures around 9.5°C."
+        ]
+    },
+    {
+        "min_temp": 9.75,
+        "max_temp": 10.0,
+        "facts": [
+            "The Rhine River in Europe has surface water temperatures around 9.75°C in early spring.",
+            "Many bird species start their migratory journey during early spring or fall when temperatures are around 9.75°C."
+        ]
+    },
+    {
+        "min_temp": 10.0,
+        "max_temp": 10.25,
+        "facts": [
+            "10°C is the temperature at which gardeners often apply mulch to protect plants from winter cold.",
+            "The optimal fermentation temperature for Lager beer is around 10°C."
+        ]
+    },
+    {
+        "min_temp": 10.25,
+        "max_temp": 10.5,
+        "facts": [
+            "Lakes used for geothermal energy studies often have temperatures around 10.25°C in deeper layers.",
+            "The average temperature for an underground wine cellar is around 10°C to 15°C, making it ideal for long-term storage."
+        ]
+    },
+    {
+        "min_temp": 10.5,
+        "max_temp": 10.75,
+        "facts": [
+            "Hiking in mountainous regions can often be cool, with temperatures like 10.5°C during the day even in summer months.",
+            "10.5°C soil temperature is good for planting many types of bulbs in spring."
+        ]
+    },
+    {
+        "min_temp": 10.75,
+        "max_temp": 11.0,
+        "facts": [
+            "At 11°C, bacteria that cause food spoilage slow down, making it a critical temperature for cold storage.",
+            "National parks in temperate regions experience a pleasant 10 to 11°C in early spring."
+        ]
+    },
+    {
+        "min_temp": 11.0,
+        "max_temp": 11.25,
+        "facts": [
+            "The air temperatures during the Boston Marathon often average just below 11°C in April.",
+            "Springtime in the Netherlands sees bulb fields in full bloom at temperatures around 11°C."
+        ]
+    },
+    {
+        "min_temp": 11.25,
+        "max_temp": 11.5,
+        "facts": [
+            "European brown bears emerge from hibernation as temperatures rise around 11.25°C.",
+            "Many amphibians start their breeding season when temperatures reach around 11.25°C."
+        ]
+    },
+    {
+        "min_temp": 11.5,
+        "max_temp": 11.75,
+        "facts": [
+            "The optimal temperature for storing apples long-term is around 11.5°C.",
+            "At this temperature, certain types of hard cheese are matured and aged."
+        ]
+    },
+    {
+        "min_temp": 11.75,
+        "max_temp": 12.0,
+        "facts": [
+            "Dew point around 12°C is often considered ideal for outdoor activities without discomfort.",
+            "The average annual temperature of Ireland is around 10°C to 12°C."
+        ]
+    },
+    {
+        "min_temp": 12.0,
+        "max_temp": 12.25,
+        "facts": [
+            "Moderate climates around 12°C support the growth of temperate rainforests.",
+            "Certain orchids grow best in climates with temperatures around 12°C."
+        ]
+    },
+    {
+        "min_temp": 12.25,
+        "max_temp": 12.5,
+        "facts": [
+            "12.25°C is an average winter temperature in many Mediterranean climates.",
+            "Soil temperatures around this range are ideal for planting specific types of vegetables in spring."
+        ]
+    },
+    {
+        "min_temp": 12.5,
+        "max_temp": 12.75,
+        "facts": [
+            "12.5°C is an ideal temperature for fermenting certain types of white and rosé wines.",
+            "The air temperature in subtropical regions often hovers around 12.5°C during spring nights."
+        ]
+    },
+  {
+        "min_temp": 12.75,
+        "max_temp": 13.0,
+        "facts": [
+            "Springtime in parts of Canada can have average daytime temperatures of around 12.75°C.",
+            "Soil temperatures around 13°C are suitable for planting early spring crops like peas."
+        ]
+    },
+    {
+        "min_temp": 13.0,
+        "max_temp": 13.25,
+        "facts": [
+            "Moderately cool climates with a temperature of 13°C are ideal for growing roses.",
+            "Arctic seabirds often nest in regions with average temperatures around 13°C during summer."
+        ]
+    },
+    {
+        "min_temp": 13.25,
+        "max_temp": 13.5,
+        "facts": [
+            "13.25°C is a common water temperature for indoor swimming pools.",
+            "Many perennials begin to sprout in the spring when soil temperatures are around 13.25°C."
+        ]
+    },
+    {
+        "min_temp": 13.5,
+        "max_temp": 13.75,
+        "facts": [
+            "Average temperatures in the UK during spring hover around 13.5°C.",
+            "Some fungi start their fruiting phase at temperatures around 13.5°C."
+        ]
+    },
+    {
+        "min_temp": 13.75,
+        "max_temp": 14.0,
+        "facts": [
+            "Gardeners often see common pests like aphids becoming active at 13.75°C.",
+            "The average surface temperature of Mars is -63°C, a stark contrast to 13.75°C here on Earth."
+        ]
+    },
+    {
+        "min_temp": 14.0,
+        "max_temp": 14.25,
+        "facts": [
+            "Temperate rainforests thrive in conditions around 14°C.",
+            "14°C is ideal for curing meats like prosciutto, which requires a cool, dry place."
+        ]
+    },
+    {
+        "min_temp": 14.25,
+        "max_temp": 14.5,
+        "facts": [
+            "Average October temperatures in San Francisco often hover around 14.25°C.",
+            "The ideal soil temperature for planting corn is around 14.25°C."
+        ]
+    },
+    {
+        "min_temp": 14.5,
+        "max_temp": 14.75,
+        "facts": [
+            "Cormorants, seabirds that dive for fish, are found in regions where the water temperature is around 14.5°C.",
+            "14.5°C is a typical early autumn temperature in many temperate regions."
+        ]
+    },
+    {
+        "min_temp": 14.75,
+        "max_temp": 15.0,
+        "facts": [
+            "Sourdough starters ferment optimally at around 14.75°C to 15°C.",
+            "Apple orchards prefer a cool climate about 14.75°C for a good harvest season."
+        ]
+    },
+    {
+        "min_temp": 15.0,
+        "max_temp": 15.25,
+        "facts": [
+            "The average annual temperature in the United Kingdom is about 15°C.",
+            "Honey bees become more active at temperatures above 15°C."
+        ]
+    },
+    {
+        "min_temp": 15.25,
+        "max_temp": 15.5,
+        "facts": [
+            "15.25°C is a comfortable room temperature for sleeping.",
+            "Marine plants like algae thrive in coastal waters around 15.25°C."
+        ]
+    },
+    {
+        "min_temp": 15.5,
+        "max_temp": 15.75,
+        "facts": [
+            "The ideal composting temperature is around 15.5°C, where microbial activity is high.",
+            "Mediterranean plant species thrive in regions with temperatures around 15.5°C."
+        ]
+    },
+    {
+        "min_temp": 15.75,
+        "max_temp": 16.0,
+        "facts": [
+            "15.75°C is roughly the average temperature of a well-maintained greenhouse.",
+            "Springtime temperatures in Paris often average around 16°C."
+        ]
+    },
+    {
+        "min_temp": 16.0,
+        "max_temp": 16.25,
+        "facts": [
+            "16°C is a typical temperature for champagne fermentation.",
+            "Migratory birds prefer climates around 16°C during their autumn migrations."
+        ]
+    },
+    {
+        "min_temp": 16.25,
+        "max_temp": 16.5,
+        "facts": [
+            "Tulip bulbs begin to bloom when soil temperatures are around 16.25°C.",
+            "Wildflowers in temperate regions flourish in climates around 16.25°C."
+        ]
+    },
+    {
+        "min_temp": 16.5,
+        "max_temp": 16.75,
+        "facts": [
+            "Many European cities have an average annual temperature around 16.5°C.",
+            "The optimal temperature for strawberry plants is around 16.5°C."
+        ]
+    },
+    {
+        "min_temp": 16.75,
+        "max_temp": 17.0,
+        "facts": [
+            "April temperatures in Tokyo average around 16.75°C.",
+            "Butterflies become more active at temperatures around 17°C."
+        ]
+    },
+    {
+        "min_temp": 17.0,
+        "max_temp": 17.25,
+        "facts": [
+            "Room temperature is often considered to be around 17°C to 18°C.",
+            "17°C is a comfortable temperature for most sports activities."
+        ]
+    },
+    {
+        "min_temp": 17.25,
+        "max_temp": 17.5,
+        "facts": [
+            "Springtime in New York City often has temperatures around 17.25°C.",
+            "Autumn leaves become most vibrant when temperatures hover around 17°C to 18°C during the day."
+        ]
+    },
+    {
+        "min_temp": 17.5,
+        "max_temp": 17.75,
+        "facts": [
+            "The onset of the grape harvest in many wine regions begins when temperatures cool to around 17.5°C.",
+            "17.5°C is a standard temperature for processing and storing Swiss cheese."
+        ]
+    },
+    {
+        "min_temp": 17.75,
+        "max_temp": 18.0,
+        "facts": [
+            "18°C is a suitable temperature for optimal human comfort indoors.",
+            "Tomatoes on the vine ripen at temperatures around 18°C."
+        ]
+    },
+    {
+        "min_temp": 18.0,
+        "max_temp": 18.25,
+        "facts": [
+            "18°C is an ideal temperature for brewing many ales.",
+            "Spring temperatures in Italy average around 18°C, providing ideal conditions for various crops."
+        ]
+    },
+    {
+        "min_temp": 18.25,
+        "max_temp": 18.5,
+        "facts": [
+            "Certain species of roses bloom best at temperatures around 18.25°C.",
+            "The optimal curing temperature for ham is around 18.25°C."
+        ]
+    },
+    {
+        "min_temp": 18.5,
+        "max_temp": 18.75,
+        "facts": [
+            "18.5°C is a good room temperature for comfort during physical activities like yoga.",
+            "Many citrus fruits begin their season when temperatures are around 18.5°C."
+        ]
+    },
+    {
+        "min_temp": 18.75,
+        "max_temp": 19.0,
+        "facts": [
+            "19°C is often the ideal temperature for coffee storage to maintain freshness.",
+            "Many European countries consider 19°C to be the ideal room temperature for energy efficiency."
+        ]
+    },
+  {
+        "min_temp": 19.0,
+        "max_temp": 19.25,
+        "facts": [
+            "19°C is the optimal room temperature recommended by public health organizations for balance between comfort and energy use.",
+            "Mediterranean herb gardens thrive when temperatures are around 19°C."
+        ]
+    },
+    {
+        "min_temp": 19.25,
+        "max_temp": 19.5,
+        "facts": [
+            "19.25°C is a common evening temperature in Mediterranean climates during spring.",
+            "Bumblebees are more active at temperatures around 19.25°C."
+        ]
+    },
+    {
+        "min_temp": 19.5,
+        "max_temp": 19.75,
+        "facts": [
+            "Cherry blossoms in Japan typically bloom when temperatures reach around 19.5°C.",
+            "19.5°C is a preferred room temperature for infants."
+        ]
+    },
+    {
+        "min_temp": 19.75,
+        "max_temp": 20.0,
+        "facts": [
+            "20°C is a typical room temperature for maintaining plant life indoors.",
+            "A functioning refrigerator's fresh food section is usually around 1°C to 4°C, largely colder than 20°C."
+        ]
+    },
+    {
+        "min_temp": 20.0,
+        "max_temp": 20.25,
+        "facts": [
+            "20°C is the average room temperature considered comfortable for most people.",
+            "Golden Retrievers are comfortable in temperatures up to 20°C without much risk of overheating."
+        ]
+    },
+    {
+        "min_temp": 20.25,
+        "max_temp": 20.5,
+        "facts": [
+            "New Zealand experiences average temperatures around 20.25°C during February.",
+            "20.25°C is an ideal temperature for wine fermentation for certain varieties."
+        ]
+    },
+    {
+        "min_temp": 20.5,
+        "max_temp": 20.75,
+        "facts": [
+            "European honey bees are most active at temperatures around 20.5°C.",
+            "20.5°C is an average room temperature for light exercise activities."
+        ]
+    },
+    {
+        "min_temp": 20.75,
+        "max_temp": 21.0,
+        "facts": [
+            "21°C, or 70°F, is often cited as the optimal indoor room temperature.",
+            "21°C is an average mid-spring temperature in temperate regions."
+        ]
+    },
+    {
+        "min_temp": 21.0,
+        "max_temp": 21.25,
+        "facts": [
+            "21.0°C is often the sea surface temperature around coastal cities like Los Angeles in early summer.",
+            "Many plants used for herbal infusions thrive at around 21°C."
+        ]
+    },
+    {
+        "min_temp": 21.25,
+        "max_temp": 21.5,
+        "facts": [
+            "21.25°C is the average temperature for urban areas balancing natural and manmade influences.",
+            "21.25°C is comfortable for most indoor pets."
+        ]
+    },
+    {
+        "min_temp": 21.5,
+        "max_temp": 21.75,
+        "facts": [
+            "The blooming of flowers such as azaleas occurs optimally at temperatures around 21.5°C.",
+            "21.5°C is a common room temperature setting in HVAC systems."
+        ]
+    },
+    {
+        "min_temp": 21.75,
+        "max_temp": 22.0,
+        "facts": [
+            "22°C is considered an ideal room temperature for productivity in offices.",
+            "22°C is a typical summer temperature in coastal Iceland."
+        ]
+    },
+    {
+        "min_temp": 22.0,
+        "max_temp": 22.25,
+        "facts": [
+            "22°C is a common setting for household thermostats in summer.",
+            "The Mediterranean Sea can reach temperatures of around 22°C in late spring."
+        ]
+    },
+    {
+        "min_temp": 22.25,
+        "max_temp": 22.5,
+        "facts": [
+            "Certain species of tropical fish require water temperatures around 22.25°C to thrive.",
+            "22.25°C is ideal for cultivating a variety of houseplants."
+        ]
+    },
+    {
+        "min_temp": 22.5,
+        "max_temp": 22.75,
+        "facts": [
+            "22.5°C is a common air temperature in open-plan office spaces for comfort.",
+            "Basil and other herbs grow well at a steady 22.5°C."
+        ]
+    },
+    {
+        "min_temp": 22.75,
+        "max_temp": 23.0,
+        "facts": [
+            "The ideal temperature for keeping many freshwater aquarium fish is around 22.75°C.",
+            "Many orchids require consistent temperatures of around 23°C for blooming."
+        ]
+    },
+    {
+        "min_temp": 23.0,
+        "max_temp": 23.25,
+        "facts": [
+            "23°C is the average daytime temperature for Mediterranean climates in summer.",
+            "Certain experimental wines are fermented at temperatures around 23°C for unique flavors."
+        ]
+    },
+    {
+        "min_temp": 23.25,
+        "max_temp": 23.5,
+        "facts": [
+            "23.25°C is an ideal temperature for most indoor swimming pools.",
+            "23.25°C is a preferred temperature for many amphibians in captivity."
+        ]
+    },
+    {
+        "min_temp": 23.5,
+        "max_temp": 23.75,
+        "facts": [
+            "23.5°C is an average temperature for cities like San Diego during summer.",
+            "Certain reptiles require basking spots with temperatures around 23.5°C."
+        ]
+    },
+    {
+        "min_temp": 23.75,
+        "max_temp": 24.0,
+        "facts": [
+            "24°C is considered a pleasant temperature for beach weather.",
+            "24°C is a good air temperature for drying fruits and herbs in the open."
+        ]
+    },
+    {
+        "min_temp": 24.0,
+        "max_temp": 24.25,
+        "facts": [
+            "24°C is the average room temperature setting in many tropical regions.",
+            "Some laboratory experiments in biology are conducted at a controlled 24°C."
+        ]
+    },
+    {
+        "min_temp": 24.25,
+        "max_temp": 24.5,
+        "facts": [
+            "24.25°C is a common air temperature in greenhouses for growing tropical plants.",
+            "Optimal temperatures for ripening bananas fall around 24.25°C."
+        ]
+    },
+    {
+        "min_temp": 24.5,
+        "max_temp": 24.75,
+        "facts": [
+            "The ideal temperature for hatching many bird eggs is around 24.5°C.",
+            "Ferments like kimchi can be processed more quickly at temperatures around 24.5°C."
+        ]
+    },
+    {
+        "min_temp": 24.75,
+        "max_temp": 25.0,
+        "facts": [
+            "25°C is often cited as the perfect temperature for outdoor activities in many climates.",
+            "25°C is the standard air temperature for comfort in many tropical resorts."
+        ]
+    },
+  {
+        "min_temp": 25.0,
+        "max_temp": 25.25,
+        "facts": [
+            "25°C is the ideal temperature for swimming pools used in competitions.",
+            "25°C is a common average temperature during summer in many parts of southern Europe."
+        ]
+    },
+    {
+        "min_temp": 25.25,
+        "max_temp": 25.5,
+        "facts": [
+            "Certain enzymes used in biological processes work best at 25.25°C.",
+            "25.25°C is considered a perfect temperature for lounging outdoors in tropical regions."
+        ]
+    },
+    {
+        "min_temp": 25.5,
+        "max_temp": 25.75,
+        "facts": [
+            "25.5°C is a suitable indoor temperature for tropical reptiles like iguanas.",
+            "25.5°C is ideal for certain high-intensity sports like tennis."
+        ]
+    },
+    {
+        "min_temp": 25.75,
+        "max_temp": 26.0,
+        "facts": [
+            "26°C is a common mid-summer temperature in regions with a Mediterranean climate.",
+            "26°C is near the upper limit of comfort for many people during indoor activities."
+        ]
+    },
+    {
+        "min_temp": 26.0,
+        "max_temp": 26.25,
+        "facts": [
+            "26°C is the optimal temperature for growing many tropical fruits.",
+            "Honey bees start to reduce their activity when temperatures exceed 26°C."
+        ]
+    },
+    {
+        "min_temp": 26.25,
+        "max_temp": 26.5,
+        "facts": [
+            "26.25°C is a ideal temperature for outdoor exercise in warmer climates.",
+            "Cacti and succulents thrive in temperatures around 26.25°C."
+        ]
+    },
+    {
+        "min_temp": 26.5,
+        "max_temp": 26.75,
+        "facts": [
+            "26.5°C is a comfortable outdoor temperature for picnics and social gatherings.",
+            "26.5°C is an optimal temperature for raising certain species of tropical fish."
+        ]
+    },
+    {
+        "min_temp": 26.75,
+        "max_temp": 27.0,
+        "facts": [
+            "27°C is a common average summer temperature in many desert regions.",
+            "27°C is considered quite warm but still comfortable for outdoor events."
+        ]
+    },
+    {
+        "min_temp": 27.0,
+        "max_temp": 27.25,
+        "facts": [
+            "Average temperatures of 27°C are typical in Southeast Asia during the dry season.",
+            "Marine life such as coral reefs thrive in waters around 27°C."
+        ]
+    },
+    {
+        "min_temp": 27.25,
+        "max_temp": 27.5,
+        "facts": [
+            "27.25°C is a perfect temperature for beach weather in tropical regions.",
+            "Certain species of butterflies become highly active at temperatures around 27.25°C."
+        ]
+    },
+    {
+        "min_temp": 27.5,
+        "max_temp": 27.75,
+        "facts": [
+            "27.5°C is ideal for maintaining indoor plant species like orchids and ferns.",
+            "27.5°C is the maximum comfortable room temperature for many people without air conditioning."
+        ]
+    },
+    {
+        "min_temp": 27.75,
+        "max_temp": 28.0,
+        "facts": [
+            "28°C is considered a hot but pleasant temperature for leisure activities at the beach.",
+            "Many annual flower varieties thrive in temperatures around 28°C."
+        ]
+    },
+    {
+        "min_temp": 28.0,
+        "max_temp": 28.25,
+        "facts": [
+            "28°C is a standard daytime temperature in many tropical regions.",
+            "28°C is ideal for fermenting certain styles of beer, like Belgian ales."
+        ]
+    },
+    {
+        "min_temp": 28.25,
+        "max_temp": 28.5,
+        "facts": [
+            "28.25°C is a good temperature for sunbathing in controlled conditions to avoid overheating.",
+            "Some amphibians prefer water temperatures around 28.25°C."
+        ]
+    },
+    {
+        "min_temp": 28.5,
+        "max_temp": 28.75,
+        "facts": [
+            "28.5°C is the temperature of shallow coastal waters in tropical regions.",
+            "28.5°C is considered warm but typically tolerable for active outdoor sports."
+        ]
+    },
+    {
+        "min_temp": 28.75,
+        "max_temp": 29.0,
+        "facts": [
+            "29°C is the average summer temperature in many Caribbean nations.",
+            "29°C is the upper limit for comfortable room temperature with minimal air movement."
+        ]
+    },
+    {
+        "min_temp": 29.0,
+        "max_temp": 29.25,
+        "facts": [
+            "29°C is ideal for growing many tropical and subtropical plants.",
+            "29°C is the average water temperature for many high-tide coastal regions."
+        ]
+    },
+    {
+        "min_temp": 29.25,
+        "max_temp": 29.5,
+        "facts": [
+            "29.25°C is a common temperature setting for spa pools and Jacuzzis.",
+            "Certain reptiles like basking at temperatures around 29.25°C."
+        ]
+    },
+    {
+        "min_temp": 29.5,
+        "max_temp": 29.75,
+        "facts": [
+            "29.5°C is a hot temperature suited for youth sports training sessions outdoors.",
+            "29.5°C is common in large cities during summer heatwaves."
+        ]
+    },
+    {
+        "min_temp": 29.75,
+        "max_temp": 30.0,
+        "facts": [
+            "30°C is considered hot weather in many parts of the world, requiring heat management strategies.",
+            "30°C is a typical temperature near the Earth’s equator year-round."
+        ]
+    },
+    {
+        "min_temp": 30.0,
+        "max_temp": 30.25,
+        "facts": [
+            "30°C is a standard hot summer day temperature in many subtropical regions.",
+            "30°C is the threshold where many people begin to feel uncomfortably hot."
+        ]
+    },
+    {
+        "min_temp": 30.25,
+        "max_temp": 30.5,
+        "facts": [
+            "30.25°C is a common daytime maximum in arid desert regions.",
+            "Many tropical fish species prefer water temperatures around 30.25°C."
+        ]
+    },
+    {
+        "min_temp": 30.5,
+        "max_temp": 30.75,
+        "facts": [
+            "30.5°C is considered extreme heat, requiring hydration and sun protection.",
+            "30.5°C is a typical afternoon temperature in parts of India during the pre-monsoon season."
+        ]
+    },
+    {
+        "min_temp": 30.75,
+        "max_temp": 31.0,
+        "facts": [
+            "31°C is a common heatwave temperature in temperate regions.",
+            "31°C is considered very warm for ocean surface temperatures, often seen in the Indian Ocean."
+        ]
+    },
+    {
+        "min_temp": 31.0,
+        "max_temp": 31.25,
+        "facts": [
+            "31°C is a common summer temperature in many parts of Southeast Asia.",
+            "31°C is considered hot for most sports and physical activities."
+        ]
+    },
+    {
+        "min_temp": 31.25,
+        "max_temp": 31.5,
+        "facts": [
+            "31.25°C is a typical peak daytime temperature in subtropical and tropical regions during summer.",
+            "31.25°C is the temperature of many natural hot springs."
+        ]
+    },
+    {
+        "min_temp": 31.5,
+        "max_temp": 31.75,
+        "facts": [
+            "31.5°C is considered hot and humid in tropical rainforest environments.",
+            "31.5°C is a common daytime maximum in summer for desert regions."
+        ]
+    },
+    {
+        "min_temp": 31.75,
+        "max_temp": 32.0,
+        "facts": [
+            "32°C is a standard extreme summer temperature in many Southern European cities.",
+            "32°C is often cited as the upper limit of comfort for many individuals."
+        ]
+    },
+    {
+        "min_temp": 32.0,
+        "max_temp": 32.25,
+        "facts": [
+            "32°C is the average midday temperature in many tropical regions year-round.",
+            "32°C is typical for coastal temperatures in countries like Thailand."
+        ]
+    },
+    {
+        "min_temp": 32.25,
+        "max_temp": 32.5,
+        "facts": [
+            "32.25°C is optimal for some tropical plants' growth and flowering.",
+            "Many heat-resilient insects prefer temperatures around 32.25°C."
+        ]
+    },
+    {
+        "min_temp": 32.5,
+        "max_temp": 32.75,
+        "facts": [
+            "32.5°C is considered very hot, with increased risk of heat-related illnesses.",
+            "32.5°C is the temperature of water in many indoor heated swimming pools."
+        ]
+    },
+    {
+        "min_temp": 32.75,
+        "max_temp": 33.0,
+        "facts": [
+            "33°C is a standard high summer temperature in many arid environments.",
+            "33°C is typical for midday temperatures in places like Florida during peak summer."
+        ]
+    },
+    {
+        "min_temp": 33.0,
+        "max_temp": 33.25,
+        "facts": [
+            "33°C is considered extreme heat, often resulting in heat advisories.",
+            "33°C is a benchmark temperature for testing heat tolerance in building materials."
+        ]
+    },
+    {
+        "min_temp": 33.25,
+        "max_temp": 33.5,
+        "facts": [
+            "33.25°C is a common high temperature in Mediterranean climates during heatwaves.",
+            "Tropical animals such as lizards thrive in environments around 33.25°C."
+        ]
+    },
+    {
+        "min_temp": 33.5,
+        "max_temp": 33.75,
+        "facts": [
+            "33.5°C is typical for many desert climates during summer peak temperatures.",
+            "Shallow water bodies heat up to around 33.5°C during sunny days in tropical regions."
+        ]
+    },
+    {
+        "min_temp": 33.75,
+        "max_temp": 34.0,
+        "facts": [
+            "34°C is a threshold for potentially dangerous heat exposure.",
+            "34°C is a common maximum for urban heat islands in summer."
+        ]
+    },
+    {
+        "min_temp": 34.0,
+        "max_temp": 34.25,
+        "facts": [
+            "34°C is a typical summer peak temperature in cities like Las Vegas.",
+            "Certain distillation processes in industrial settings operate optimally at 34°C."
+        ]
+    },
+    {
+        "min_temp": 34.25,
+        "max_temp": 34.5,
+        "facts": [
+            "34.25°C is a temperature often reached in sun-exposed areas during summer.",
+            "Hydration and sun protection are crucial at temperatures around 34.25°C."
+        ]
+    },
+    {
+        "min_temp": 34.5,
+        "max_temp": 34.75,
+        "facts": [
+            "34.5°C is considered extremely hot, with significant risk for heat stroke.",
+            "34.5°C is often used as a reference point for extreme heat conditions."
+        ]
+    },
+    {
+        "min_temp": 34.75,
+        "max_temp": 35.0,
+        "facts": [
+            "35°C is a common temperature in many desert regions during the height of summer.",
+            "35°C is considered the threshold of very hot weather, often requiring cooling interventions."
+        ]
+    },
+    {
+        "min_temp": 35.0,
+        "max_temp": 35.25,
+        "facts": [
+            "35°C is a temperature that can cause heat stress and requires appropriate hydration.",
+            "Many electronic devices have thermal limits near 35°C to prevent overheating."
+        ]
+    },
+    {
+        "min_temp": 35.25,
+        "max_temp": 35.5,
+        "facts": [
+            "35.25°C is typical for peak summer temperatures in countries like Australia.",
+            "35.25°C is the upper limit for safe physical exertion outdoors without shade."
+        ]
+    },
+    {
+        "min_temp": 35.5,
+        "max_temp": 35.75,
+        "facts": [
+            "35.5°C is the normal average temperature of specific hot desert climates.",
+            "Air conditioning is highly recommended for indoor comfort at 35.5°C."
+        ]
+    },
+    {
+        "min_temp": 35.75,
+        "max_temp": 36.0,
+        "facts": [
+            "36°C is the operating temperature for certain industrial manufacturing processes.",
+            "36°C is the standard temperature for many tropical greenhouses to simulate natural conditions."
+        ]
+    },
+    {
+        "min_temp": 36.0,
+        "max_temp": 36.25,
+        "facts": [
+            "36°C is a typical high for many Middle Eastern cities during summer.",
+            "36°C is a critical temperature, beyond which many cooling systems are pushed to their limits."
+        ]
+    },
+    {
+        "min_temp": 36.25,
+        "max_temp": 36.5,
+        "facts": [
+            "36.25°C is a common extreme temperature in the Australian Outback.",
+            "36.25°C is the optimal starting condition for heat acclimatization training for athletes."
+        ]
+    },
+    {
+        "min_temp": 36.5,
+        "max_temp": 36.75,
+        "facts": [
+            "36.5°C is an extreme temperature; unprotected exposure can cause heat exhaustion.",
+            "36.5°C is a near-peak temperature for dry climates during high summer."
+        ]
+    },
+    {
+        "min_temp": 36.75,
+        "max_temp": 37.0,
+        "facts": [
+            "37°C is equivalent to human body temperature.",
+            "37°C often serves as a reference point for studying the effects of heat on biological systems."
+        ]
+    },
+    {
+        "min_temp": 37.0,
+        "max_temp": 37.25,
+        "facts": [
+            "37°C is a common summer peak in many interior regions of continents.",
+            "37°C is considered dangerous without adequate hydration and cooling measures."
+        ]
+    },
+    {
+        "min_temp": 37.25,
+        "max_temp": 37.5,
+        "facts": [
+            "37.25°C is a critical threshold for preventing heat stroke during physical exertion.",
+            "37.25°C is typical in many deserts during midday in summer."
+        ]
+    },
+    {
+        "min_temp": 37.5,
+        "max_temp": 37.75,
+        "facts": [
+            "37.5°C is near the upper limit for tolerable human environmental conditions.",
+            "Many ecosystems experience stress at sustained temperatures around 37.5°C."
+        ]
+    },
+    {
+        "min_temp": 37.75,
+        "max_temp": 38.0,
+        "facts": [
+            "38°C is an extremely hot temperature often seen in deserts and dry regions during peak summer.",
+            "38°C is a critical temperature for preventing heat-related illnesses during outdoor activities."
+        ]
+    },
+    {
+        "min_temp": 38.0,
+        "max_temp": 38.25,
+        "facts": [
+            "38°C is equivalent to a fever in humans.",
+            "38°C is a temperatures experienced in heatwaves in Mediterranean climates during the summer."
+        ]
+    },
+    {
+        "min_temp": 38.25,
+        "max_temp": 38.5,
+        "facts": [
+            "38.25°C is typical during summer in inland areas of continents with arid climates.",
+            "Extended exposure to 38.25°C without cooling can lead to heatstroke."
+        ]
+    },
+    {
+        "min_temp": 38.5,
+        "max_temp": 38.75,
+        "facts": [
+            "38.5°C is a high temperature that can cause significant stress on power grids due to increased cooling demands.",
+            "38.5°C is considered extremely dangerous for vulnerable populations like the elderly and young children."
+        ]
+    },
+    {
+        "min_temp": 38.75,
+        "max_temp": 39.0,
+        "facts": [
+            "39°C is a common temperature during severe heatwaves in regions like the Middle East.",
+            "39°C necessitates the use of serious heat mitigation strategies, including hydration and air conditioning."
+        ]
+    },
+    {
+        "min_temp": 39.0,
+        "max_temp": 39.25,
+        "facts": [
+            "39°C is the temperature of many geothermal springs around the world.",
+            "39°C is considered a critical threshold for human activity without risk of hyperthermia."
+        ]
+    },
+    {
+        "min_temp": 39.25,
+        "max_temp": 39.5,
+        "facts": [
+            "39.25°C is typical for peak afternoon temperatures in arid desert climates.",
+            "Prolonged exposure to 39.25°C can result in heat exhaustion and decreased cognitive function."
+        ]
+    },
+    {
+        "min_temp": 39.5,
+        "max_temp": 39.75,
+        "facts": [
+            "39.5°C is common in heat events across southern regions of the United States.",
+            "Many industrial cooling systems are not designed to withstand sustained temperatures of 39.5°C."
+        ]
+    },
+    {
+        "min_temp": 39.75,
+        "max_temp": 40.0,
+        "facts": [
+            "40°C is often seen as the threshold for extreme heat advisories and warnings.",
+            "40°C is a high enough temperature to cause significant health risks if exposed for extended periods."
+        ]
+    },
+    {
+        "min_temp": 40.0,
+        "max_temp": 40.25,
+        "facts": [
+            "40°C is considered dangerous and can cause severe dehydration and heatstroke.",
+            "Certain building materials can become structurally compromised at 40°C."
+        ]
+    },
+    {
+        "min_temp": 40.25,
+        "max_temp": 40.5,
+        "facts": [
+            "40.25°C is a common temperature in hot desert regions like the Sahara during peak summer.",
+            "Outdoor activities should be limited or avoided when temperatures are around 40.25°C."
+        ]
+    },
+    {
+        "min_temp": 40.5,
+        "max_temp": 40.75,
+        "facts": [
+            "40.5°C is a high-risk temperature for heat-related illnesses.",
+            "Many crops suffer from heat stress and reduced yields at 40.5°C."
+        ]
+    },
+    {
+        "min_temp": 40.75,
+        "max_temp": 41.0,
+        "facts": [
+            "41°C is a temperature commonly reached during heatwaves in arid and semi-arid regions.",
+            "41°C necessitates immediate cooling measures to prevent heat exhaustion."
+        ]
+    },
+    {
+        "min_temp": 41.0,
+        "max_temp": 41.25,
+        "facts": [
+            "41°C is often referenced as the upper limit for safe exposure in many occupational health guidelines.",
+            "Electrical systems can overheat and fail at sustained temperatures of 41°C."
+        ]
+    },
+    {
+        "min_temp": 41.25,
+        "max_temp": 41.5,
+        "facts": [
+            "41.25°C is commonly observed in regions like Western Australia during summer.",
+            "41.25°C can lead to rapid dehydration, requiring increased fluid intake."
+        ]
+    },
+    {
+        "min_temp": 41.5,
+        "max_temp": 41.75,
+        "facts": [
+            "41.5°C is a high temperature often recorded in heatwave conditions.",
+            "Prolonged exposure to 41.5°C can lead to heatstroke and other severe heat-related conditions."
+        ]
+    },
+    {
+        "min_temp": 41.75,
+        "max_temp": 42.0,
+        "facts": [
+            "42°C is the temperature of many geothermal energy sources.",
+            "42°C is considered life-threatening if exposed without adequate cooling."
+        ]
+    },
+    {
+        "min_temp": 42.0,
+        "max_temp": 42.25,
+        "facts": [
+            "42°C is an extremely high temperature that can cause immediate heat stress.",
+            "42°C is the operational limit for many cooling systems used in residential and commercial buildings."
+        ]
+    },
+    {
+        "min_temp": 42.25,
+        "max_temp": 42.5,
+        "facts": [
+            "42.25°C is a temperature reached during exceptional heatwaves in regions like India.",
+            "42.25°C requires extraordinary measures to prevent heat-related health issues."
+        ]
+    },
+    {
+        "min_temp": 42.5,
+        "max_temp": 42.75,
+        "facts": [
+            "42.5°C is a critical threshold temperature that can cause rapid onset of heatstroke.",
+            "Vegetation in many ecosystems can suffer damage at sustained temperatures of 42.5°C."
+        ]
+    },
+    {
+        "min_temp": 42.75,
+        "max_temp": 43.0,
+        "facts": [
+            "43°C is an extremely high temperature often associated with desert climates.",
+            "43°C is considered dangerous for outdoor physical activity."
+        ]
+    },
+    {
+        "min_temp": 43.0,
+        "max_temp": 43.25,
+        "facts": [
+            "43°C is often recorded in the hottest regions of the world like Death Valley.",
+            "Exposure to 43°C can lead to life-threatening heat-related illnesses without immediate cooling."
+        ]
+    },
+    {
+        "min_temp": 43.25,
+        "max_temp": 43.5,
+        "facts": [
+            "43.25°C is a high-risk temperature for all age groups, requiring caution and mitigation.",
+            "Prolonged exposure to 43.25°C can cause significant heat stress on infrastructure."
+        ]
+    },
+    {
+        "min_temp": 43.5,
+        "max_temp": 43.75,
+        "facts": [
+            "43.5°C can cause hyperthermia rapidly if exposed without adequate protection.",
+            "Certain machinery and vehicles are not designed to operate efficiently at 43.5°C."
+        ]
+    },
+    {
+        "min_temp": 43.75,
+        "max_temp": 44.0,
+        "facts": [
+            "44°C is an extreme temperature often recorded in the hottest places on Earth.",
+            "44°C necessitates the use of advanced cooling techniques to maintain safety and comfort."
+        ]
+    },
+    {
+        "min_temp": 44.0,
+        "max_temp": 44.25,
+        "facts": [
+            "44°C is the temperature seen during record-setting heatwaves in many parts of the world.",
+            "44°C can lead to rapid exhaustion and dehydration, requiring urgent cooling measures."
+        ]
+    },
+    {
+        "min_temp": 44.25,
+        "max_temp": 44.5,
+        "facts": [
+            "44.25°C is a temperature associated with the hottest parts of the globe.",
+            "Individuals can suffer severe heat health impacts at 44.25°C without proper precautions."
+        ]
+    },
+    {
+        "min_temp": 44.5,
+        "max_temp": 44.75,
+        "facts": [
+            "44.5°C is an extreme daytime temperature typical in desert regions.",
+            "Industrial processes at 44.5°C must account for heat management to prevent equipment failure."
+        ]
+    },
+    {
+        "min_temp": 44.75,
+        "max_temp": 45.0,
+        "facts": [
+            "45°C is often the upper limit of natural environmental temperatures on Earth.",
+            "Exposure to 45°C can cause severe heat-related illnesses, necessitating immediate intervention."
+        ]
+    },
+    {
+        "min_temp": 45.0,
+        "max_temp": 45.25,
+        "facts": [
+            "45°C is the temperature experienced during extreme heatwaves in places like the Arabian Peninsula.",
+            "At 45°C, even short periods of exposure can be dangerous without proper hydration and cooling."
+        ]
+    },
+    {
+        "min_temp": 45.25,
+        "max_temp": 45.5,
+        "facts": [
+            "45.25°C is a high enough temperature to critically damage many plant species.",
+            "Individuals exposed to 45.25°C should seek shade and hydration immediately."
+        ]
+    },
+    {
+        "min_temp": 45.5,
+        "max_temp": 45.75,
+        "facts": [
+            "45.5°C is a temperature that can cause immediate health risks, including heatstroke.",
+            "45.5°C is an extreme condition seen in very hot desert and arid regions."
+        ]
+    },
+    {
+        "min_temp": 45.75,
+        "max_temp": 46.0,
+        "facts": [
+            "46°C is near the upper limit of recorded natural temperatures.",
+            "46°C is a severe condition requiring urgent cooling and hydration to prevent heat-related deaths."
+        ]
+    },
+    {
+        "min_temp": 46.0,
+        "max_temp": 46.25,
+        "facts": [
+            "46°C is typical in some parts of the world during record-breaking heat events.",
+            "Exposure to 46°C requires immediate protective measures to prevent serious health effects."
+        ]
+    },
+    {
+        "min_temp": 46.25,
+        "max_temp": 46.5,
+        "facts": [
+            "46.25°C is often seen as a critical thermal threshold in heat advisory warnings.",
+            "46.25°C exposures can overwhelm building cooling systems rapidly."
+        ]
+    },
+    {
+        "min_temp": 46.5,
+        "max_temp": 46.75,
+        "facts": [
+            "46.5°C is a temperature that greatly limits most outdoor human activities.",
+            "Exposures to 46.5°C stress biological systems, requiring advanced cooling strategies."
+        ]
+    },
+    {
+        "min_temp": 46.75,
+        "max_temp": 47.0,
+        "facts": [
+            "47°C is a dangerous temperature often recorded in the hottest locations on Earth.",
+            "47°C necessitates emergency heat mitigation efforts to protect public health."
+        ]
+    },
+    {
+        "min_temp": 47.0,
+        "max_temp": 47.25,
+        "facts": [
+            "47°C is a common temperature during peak summer heatwaves in parts of the southwestern United States.",
+            "47°C can cause rapid heat-related health effects, necessitating immediate intervention."
+        ]
+    },
+    {
+        "min_temp": 47.25,
+        "max_temp": 47.5,
+        "facts": [
+            "47.25°C is a critical temperature that requires minimizing physical activity and staying hydrated.",
+            "47.25°C can cause significant infrastructure strain due to increased cooling demands."
+        ]
+    },
+    {
+        "min_temp": 47.5,
+        "max_temp": 47.75,
+        "facts": [
+            "47.5°C is typical in regions experiencing severe heatwaves and desert climates.",
+            "47.5°C can severely impact unprotected human health quickly."
+        ]
+    },
+    {
+        "min_temp": 47.75,
+        "max_temp": 48.0,
+        "facts": [
+            "48°C is an extreme temperature, often necessitating public health warnings and advisories.",
+            "48°C can cause rapid dehydration and requires urgent cooling strategies."
+        ]
+    },
+    {
+        "min_temp": 48.0,
+        "max_temp": 48.25,
+        "facts": [
+            "48°C is often seen during record-breaking heat events in locations like Australia.",
+            "Exposure to 48°C requires drastic measures to prevent heat-related illnesses."
+        ]
+    },
+    {
+        "min_temp": 48.25,
+        "max_temp": 48.5,
+        "facts": [
+            "48.25°C necessitates immediate shelter and adequate hydration to avoid heat stroke.",
+            "Equipment and machinery often need special cooling solutions to operate at 48.25°C."
+        ]
+    },
+    {
+        "min_temp": 48.5,
+        "max_temp": 48.75,
+        "facts": [
+            "48.5°C is a temperature seldom recorded, but possible in extreme desert conditions.",
+            "At 48.5°C, prolonged exposure can cause immediate heat-related illnesses even in healthy individuals."
+        ]
+    },
+    {
+        "min_temp": 48.75,
+        "max_temp": 49.0,
+        "facts": [
+            "49°C is a rare and extreme temperature that can occur in the hottest desert regions.",
+            "Infrastructure and electronics may fail under prolonged exposure to 49°C."
+        ]
+    },
+    {
+        "min_temp": 49.0,
+        "max_temp": 49.25,
+        "facts": [
+            "49°C is a critical temperature that can cause severe heatstroke if exposed for even short periods.",
+            "Most air conditioning systems may struggle to maintain safe indoor temperatures at 49°C."
+        ]
+    },
+    {
+        "min_temp": 49.25,
+        "max_temp": 49.5,
+        "facts": [
+            "49.25°C is likely to be encountered only in the most extreme heat events.",
+            "Outdoor activities are highly dangerous and should be avoided at 49.25°C."
+        ]
+    },
+    {
+        "min_temp": 49.5,
+        "max_temp": 49.75,
+        "facts": [
+            "49.5°C is an extreme temperature that can lead to rapid dehydration and heatstroke.",
+            "Extreme caution and protective measures are required at 49.5°C."
+        ]
+    },
+    {
+        "min_temp": 49.75,
+        "max_temp": 50.0,
+        "facts": [
+            "50°C is an extremely rare temperature, only recorded in the most intense heatwaves.",
+            "Prolonged exposure to 50°C without proper cooling and hydration is life-threatening."
+        ]
+    },
+    {
+        "min_temp": 50.0,
+        "max_temp": 50.25,
+        "facts": [
+            "50°C is often referenced as a benchmark for extreme heat conditions globally.",
+            "50°C can cause immediate and severe health effects, requiring urgent medical attention."
+        ]
+    },
+    {
+        "min_temp": 50.25,
+        "max_temp": 50.5,
+        "facts": [
+            "50.25°C is an exceedingly high temperature, likely to be recorded only in extreme desert environments.",
+            "Many materials and technologies are not designed to function at 50.25°C."
+        ]
+    },
+    {
+        "min_temp": 50.5,
+        "max_temp": 50.75,
+        "facts": [
+            "50.5°C is dangerous enough to cause immediate harm through heat exhaustion and stroke.",
+            "Cooling and protective measures are critical when exposed to 50.5°C."
+        ]
+    },
+    {
+        "min_temp": 50.75,
+        "max_temp": 51.0,
+        "facts": [
+            "51°C is a temperature that could overwhelm human and technological systems designed to manage heat.",
+            "At 51°C, outdoor activities should be strictly prohibited to avoid heat-related illnesses."
+        ]
+    },
+    {
+        "min_temp": 51.0,
+        "max_temp": 51.25,
+        "facts": [
+            "51°C is an extremely rare temperature, often associated with the hottest deserts on Earth.",
+            "Risk of heatstroke is immediate and severe at 51°C."
+        ]
+    },
+    {
+        "min_temp": 51.25,
+        "max_temp": 51.5,
+        "facts": [
+            "51.25°C is a critical temperature for human survival, requiring urgent intervention.",
+            "51.25°C creates conditions that can lead to widespread heat-related emergency situations."
+        ]
+    },
+    {
+        "min_temp": 51.5,
+        "max_temp": 51.75,
+        "facts": [
+            "51.5°C is a temperature that can cause immediate heat stress and infrastructure strain.",
+            "51.5°C exposures need advanced cooling and protective measures to maintain safety."
+        ]
+    },
+    {
+        "min_temp": 51.75,
+        "max_temp": 52.0,
+        "facts": [
+            "52°C is rarely recorded but possible in extreme conditions like heatwaves in deserts.",
+            "At 52°C, survival without adequate cooling and shelter becomes extremely difficult."
+        ]
+    },
+    {
+        "min_temp": 52.0,
+        "max_temp": 52.25,
+        "facts": [
+            "52°C is a potentially lethal temperature for unprotected exposure.",
+            "Many electronic devices and systems may fail at sustained temperatures of 52°C."
+        ]
+    },
+    {
+        "min_temp": 52.25,
+        "max_temp": 52.5,
+        "facts": [
+            "52.25°C is an intense temperature that demands urgent cooling strategies to prevent heat-related illnesses.",
+            "Prolonged exposure to 52.25°C can lead to severe health emergencies."
+        ]
+    },
+    {
+        "min_temp": 52.5,
+        "max_temp": 52.75,
+        "facts": [
+            "52.5°C is an extreme temperature, indicating severe heatwaves especially in arid regions.",
+            "Human activity should be minimized at 52.5°C to prevent heatstroke."
+        ]
+    },
+    {
+        "min_temp": 52.75,
+        "max_temp": 53.0,
+        "facts": [
+            "53°C is a critical threshold where heat stress and health risks become imminent.",
+            "Many cooling systems and infrastructure may not cope with 53°C."
+        ]
+    },
+    {
+        "min_temp": 53.0,
+        "max_temp": 53.25,
+        "facts": [
+            "53°C is a temperature that can cause severe and immediate heat-related health issues.",
+            "Protective measures and rapid cooling are required to ensure safety at 53°C."
+        ]
+    },
+    {
+        "min_temp": 53.25,
+        "max_temp": 53.5,
+        "facts": [
+            "53.25°C is a dangerous temperature, often requiring urgent public health interventions.",
+            "Outdoor work and activities should be entirely avoided at 53.25°C."
+        ]
+    },
+    {
+        "min_temp": 53.5,
+        "max_temp": 53.75,
+        "facts": [
+            "53.5°C is a temperature that can cause rapid onset of heat-related emergencies.",
+            "Many materials and infrastructure may degrade quickly at 53.5°C."
+        ]
+    },
+    {
+        "min_temp": 53.75,
+        "max_temp": 54.0,
+        "facts": [
+            "54°C is a rare and extremely high temperature, often recorded in the hottest spots on Earth.",
+            "Extreme caution and protective measures are crucial at 54°C to prevent heat-related deaths."
+        ]
+    },
+    {
+        "min_temp": 54.0,
+        "max_temp": 54.25,
+        "facts": [
+            "54°C is a temperature that signifies extreme heat events and requires serious public health warnings.",
+            "Individuals exposed to 54°C must have immediate access to cooling and hydration."
+        ]
+    },
+    {
+        "min_temp": 54.25,
+        "max_temp": 54.5,
+        "facts": [
+            "54.25°C is a temperature that poses significant risks to both human health and infrastructure.",
+            "Prolonged exposure to 54.25°C requires extraordinary cooling measures."
+        ]
+    },
+    {
+        "min_temp": 54.5,
+        "max_temp": 54.75,
+        "facts": [
+            "54.5°C is typically seen in the most extreme desert climates during severe heatwaves.",
+            "Safety protocols and immediate protective measures are mandatory at 54.5°C."
+        ]
+    },
+    {
+        "min_temp": 54.75,
+        "max_temp": 55.0,
+        "facts": [
+            "55°C is an upper limit for many natural high-temperature events recorded on Earth.",
+            "55°C temperatures are life-threatening and require urgent heat mitigation strategies."
+        ]
+    },
+    {
+        "min_temp": 55.0,
+        "max_temp": 55.25,
+        "facts": [
+            "55°C is a temperature where survival becomes extremely challenging without advanced cooling systems.",
+            "Outdoor activities must be strictly prohibited at 55°C to prevent heatstroke."
+        ]
+    },
+    {
+        "min_temp": 55.25,
+        "max_temp": 55.5,
+        "facts": [
+            "55.25°C is an incredibly high temperature that can cause rapid health deterioration.",
+            "Infrastructure and cooling systems face significant challenges at 55.25°C."
+        ]
+    },
+    {
+        "min_temp": 55.5,
+        "max_temp": 55.75,
+        "facts": [
+            "55.5°C represents extreme heat waves rarely experienced but possible in some desert areas.",
+            "Even brief exposure to 55.5°C can result in severe heat-related conditions."
+        ]
+    },
+    {
+        "min_temp": 55.75,
+        "max_temp": 56.0,
+        "facts": [
+            "56°C is one of the highest temperatures ever recorded on Earth.",
+            "At 56°C, heatstroke and other heat-related health emergencies are imminent without quick intervention."
+        ]
+    },
+    {
+        "min_temp": 56.0,
+        "max_temp": 56.25,
+        "facts": [
+            "56°C is an extremely rare and potentially lethal temperature in natural heat events.",
+            "Prolonged exposure to 56°C requires immediate access to cooling and emergency medical care."
+        ]
+    },
+    {
+        "min_temp": 56.25,
+        "max_temp": 56.5,
+        "facts": [
+            "56.25°C is well beyond the comfort and safety zone for human habitation.",
+            "Operating machinery and vehicles can face critical failures at 56.25°C without special adaptations."
+        ]
+    },
+    {
+        "min_temp": 56.5,
+        "max_temp": 56.75,
+        "facts": [
+            "56.5°C can cause rapid onset of heat illnesses requiring immediate medical intervention.",
+            "Emergency cooling systems become critical at 56.5°C."
+        ]
+    },
+    {
+        "min_temp": 56.75,
+        "max_temp": 57.0,
+        "facts": [
+            "57°C may represent an upper extreme limit of recorded temperatures on Earth.",
+            "At 57°C, all non-essential outdoor activities must be halted to prevent fatal heatstroke."
+        ]
+    },
+    {
+        "min_temp": 57.0,
+        "max_temp": 57.25,
+        "facts": [
+            "57°C is a temperature that poses extreme danger to humans and wildlife.",
+            "Infrastructure is under significant stress at 57°C, requiring continuous cooling."
+        ]
+    },
+    {
+        "min_temp": 57.25,
+        "max_temp": 57.5,
+        "facts": [
+            "57.25°C is near the upper extreme of natural temperatures recorded in history.",
+            "Immediate cooling solutions are essential at 57.25°C to prevent heat-related health issues."
+        ]
+    },
+    {
+        "min_temp": 57.5,
+        "max_temp": 57.75,
+        "facts": [
+            "57.5°C can cause rapid dehydration and severe heat illnesses.",
+            "Such high temperatures require extraordinary measures to ensure human safety and infrastructure stability."
+        ]
+    },
+    {
+        "min_temp": 57.75,
+        "max_temp": 58.0,
+        "facts": [
+            "58°C is an almost unprecedented temperature, reflecting extreme and potentially record-breaking heat.",
+            "Immediate and intensive cooling efforts are needed to prevent serious heat-related injuries at 58°C."
+        ]
+    },
+    {
+        "min_temp": 58.0,
+        "max_temp": 58.25,
+        "facts": [
+            "58°C is a highly dangerous temperature, likely leading to rapid onset of heatstroke.",
+            "Emergency services and cooling systems are critical at 58°C to ensure public safety."
+        ]
+    },
+    {
+        "min_temp": 58.25,
+        "max_temp": 58.5,
+        "facts": [
+            "58.25°C is a temperature that can overwhelm human and infrastructure resilience.",
+            "Survival without immediate cooling and hydration is extremely difficult at 58.25°C."
+        ]
+    },
+    {
+        "min_temp": 58.5,
+        "max_temp": 58.75,
+        "facts": [
+            "58.5°C is an extreme temperature that poses severe health risks without rapid intervention.",
+            "At 58.5°C, heat-related illnesses can develop rapidly, necessitating urgent medical attention."
+        ]
+    },
+    {
+        "min_temp": 58.75,
+        "max_temp": 59.0,
+        "facts": [
+            "59°C is an extremely high temperature that may push the limits of human and technological endurance.",
+            "At 59°C, exposure must be limited to prevent fatal heatstroke and severe dehydration."
+        ]
+    }
+]

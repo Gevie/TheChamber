@@ -5,7 +5,9 @@ from typing import Any, Dict
 import discord
 import requests
 
+from src.data_loaders import JSONDataLoader
 from src.exceptions import NotFoundException
+from src.repositories import WeatherRepository
 from src.services import EmbedService
 
 class WeatherService:
@@ -16,6 +18,7 @@ class WeatherService:
 
         self.api_key = os.getenv('WEATHER_API_KEY')
         self.base_url = os.getenv('WEATHER_API_BASE_URL')
+        self.repository = WeatherRepository(JSONDataLoader('src/data/temperature_facts.json'))
 
     def get_weather(self, location) -> discord.Embed:
         """
@@ -41,8 +44,7 @@ class WeatherService:
 
         raise NotFoundException('Could not fetch weather data')
 
-    @staticmethod
-    def prepare_embed(data: Dict[str, Any]) -> discord.Embed:
+    def prepare_embed(self, data: Dict[str, Any]) -> discord.Embed:
         """
         Prepares the weather response data into a discord embed
 
@@ -54,6 +56,7 @@ class WeatherService:
         """
 
         local_time = datetime.utcfromtimestamp(data['dt'] + data['timezone']).strftime('%H:%M')
+        fact = self.repository.get_temperature_fact(data['main']['temp'])
 
         fields = [
             {
@@ -65,12 +68,16 @@ class WeatherService:
                 "value": f"{data['main']['temp']}°C | {data['main']['temp'] * 1.8 + 32:.1f}°F"
             },
             {
-                "name": "Humidity",
-                "value": f"{data['main']['humidity']}%"
+                "name": "Fun Fact",
+                "value": fact
             },
             {
                 "name": "Feels Like",
                 "value": f"{data['main']['feels_like']}°C | {data['main']['feels_like'] * 1.8 + 32:.1f}°F"
+            },
+            {
+                "name": "Humidity",
+                "value": f"{data['main']['humidity']}%"
             },
             {
                 "name": "Local Time",
@@ -83,7 +90,7 @@ class WeatherService:
         ]
 
         return EmbedService.create_embed(
-            "Chamber Of Secrets",
-            "**Current Weather**",
+            "Current Weather",
+            "",
             fields
         )
