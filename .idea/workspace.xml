@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c2f63a7e-ff81-49d1-8079-a036d9e96c78" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/weather_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/weather_service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +63,22 @@
       <option name="presentableId" value="Default" />
       <updated>1729958898269</updated>
       <workItem from="1729958900818" duration="32475000" />
-      <workItem from="1730044405866" duration="5515000" />
+      <workItem from="1730044405866" duration="9795000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
   </component>
 </project>

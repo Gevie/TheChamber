@@ -18,6 +18,7 @@ class WeatherService:
 
         self.api_key = os.getenv('WEATHER_API_KEY')
         self.base_url = os.getenv('WEATHER_API_BASE_URL')
+        self.icon_url_template = "https://openweathermap.org/img/wn/{icon_code}@2x.png"
         self.repository = WeatherRepository(JSONDataLoader('src/data/temperature_facts.json'))
 
     def get_weather(self, location) -> discord.Embed:
@@ -57,15 +58,13 @@ class WeatherService:
 
         local_time = datetime.utcfromtimestamp(data['dt'] + data['timezone']).strftime('%H:%M')
         fact = self.repository.get_temperature_fact(data['main']['temp'])
+        thumbnail_url = self.icon_url_template.format(icon_code=data['weather'][0]['icon'])
+        is_day = 'd' in data['weather'][0]['icon']
 
         fields = [
             {
-                "name": "Location",
-                "value": f"{data['name']}, {data['sys']['country']}"
-            },
-            {
                 "name": "Temperature",
-                "value": f"{data['main']['temp']}°C | {data['main']['temp'] * 1.8 + 32:.1f}°F"
+                "value": f"{data['main']['temp']}°C | {data['main']['temp'] * 1.8 + 32:.1f}°F",
             },
             {
                 "name": "Fun Fact",
@@ -82,15 +81,16 @@ class WeatherService:
             {
                 "name": "Local Time",
                 "value": local_time
-            },
-            {
-                "name": "Weather",
-                "value": data['weather'][0]['description'].title()
             }
         ]
 
-        return EmbedService.create_embed(
-            "Current Weather",
-            "",
-            fields
+        country = data.get('sys', {}).get('country', '')
+        embed = EmbedService.create_embed(
+            f"{data.get('name', 'Unknown')}{', ' + country if country else ''}",
+            data['weather'][0]['description'].title(),
+            fields,
+            discord.Color.gold() if is_day else discord.Color.dark_gray()
         )
+
+        embed.set_thumbnail(url=thumbnail_url)
+        return embed
