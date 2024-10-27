@@ -1,22 +1,43 @@
 from discord.ext import commands
-from src.services.weather_service import WeatherService
-from src.commands.base_command import BaseCommand
+
+from src.commands import BaseCommand
+from src.exceptions import NotFoundException
+from src.services import WeatherService
 
 class WeatherCommand(BaseCommand):
+    """Provides the weather command"""
+
     def __init__(self, bot: commands.Bot):
+        """The initialise method"""
+
         super().__init__(bot)
         self.weather_service = WeatherService()
 
     @commands.command(name='weather')
     async def get_weather(self, ctx, *location) -> None:
-        """Gets the weather for a specified location"""
+        """
+        Gets the weather for a specified location and sends to the discord context
 
-        location = ' '.join(location)
+        Args:
+            ctx: The discord context
+            *location (str): The location string to search for
+
+        Returns:
+            None
+        """
+
         try:
-            weather_data = self.weather_service.get_weather(location)
-            await ctx.send(weather_data)
-        except Exception as exception:
+            weather_embed = self.weather_service.get_weather(' '.join(location))
+            await ctx.send(embed=weather_embed)
+        except NotFoundException as exception:
             await ctx.send(f"Error fetching weather data: {str(exception)}")
 
     def get_command_name(self) -> str:
+        """
+        Get the command name
+
+        Returns:
+             str: The command name
+        """
+
         return "weather"
