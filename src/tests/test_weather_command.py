@@ -4,7 +4,7 @@ from src.services.weather_service import WeatherService
 
 class TestWeatherCommand(unittest.TestCase):
     @patch('src.services.weather_service.requests.get')
-    def test_get_weather_success(self, mock_get):
+    def test_get_success(self, mock_get):
         """Arrange"""
         mock_response = {
             'main': {'temp': 20, 'humidity': 50},
@@ -17,7 +17,7 @@ class TestWeatherCommand(unittest.TestCase):
         weather_service = WeatherService()
 
         """Act"""
-        response = weather_service.get_weather('Sample City')
+        response = weather_service.get('Sample City')
 
         """Assert"""
         self.assertIn('Weather in Sample City', response)
