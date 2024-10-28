@@ -37,19 +37,49 @@ class WeatherEmbed(BaseEmbed):
                 * self.TEMPERATURE_CONVERSION_FACTOR
                 + self.TEMPERATURE_CONVERSION_OFFSET
         )
+
         return f"{temperature_in_celsius}°C | {temperature_in_fahrenheit:.1f}°F"
 
     def _get_color(self) -> discord.Color:
-        return discord.Color.gold() if 'd' in self.data['weather'][0]['icon'] else discord.Color.dark_gray()
+        icon = self._get_weather_icon()
+        if icon and 'd' in icon:
+            return discord.Color.gold()
+
+        return discord.Color.dark_gray()
 
     def _get_description(self) -> str:
-        return self.data['weather'][0]['description'].title()
+        weather_list = self.data.get('weather', [])
+
+        if not weather_list or not isinstance(weather_list, list):
+            return "No description available"
+
+        return (
+            weather_list[0]
+            .get('description', "No description available")
+            .title()
+        )
 
     def _get_thumbnail_url(self, icon_code: str) -> str:
         return self.ICON_URL_TEMPLATE.format(icon_code=icon_code)
 
     def _get_title(self) -> str:
-        return f"{self.data.get('name', 'Unknown')}{', ' + self.data['sys'].get('country', '') if 'sys' in self.data else ''}"
+        city_name = self.data.get('name', 'Unknown')
+        country_code = ''
+
+        if 'sys' in self.data and 'country' in self.data['sys']:
+            country_code = self.data['sys']['country']
+
+        if country_code:
+            return f"{city_name}, {country_code}"
+
+        return city_name
+
+    def _get_weather_icon(self) -> str:
+        weather_list = self.data.get('weather', [])
+        if weather_list and isinstance(weather_list, list):
+            return weather_list[0].get('icon', '')
+
+        return ''
 
     def _set_embed_fields(self) -> None:
         self.fields = [
