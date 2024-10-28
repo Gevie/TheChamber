@@ -8,7 +8,7 @@ from src.embeds import BaseEmbed
 
 
 class WeatherEmbed(BaseEmbed):
-    ICON_URL_TEMPLATE = "http://openweathermap.org/img/wn/{}@2x.png"
+    ICON_URL_TEMPLATE = "http://openweathermap.org/img/wn/{icon_code}@2x.png"
     TEMPERATURE_CONVERSION_FACTOR = 1.8
     TEMPERATURE_CONVERSION_OFFSET = 32
 
