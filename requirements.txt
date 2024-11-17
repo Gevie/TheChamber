@@ -1,8 +1,9 @@
-flask~=3.0.3
-requests-oauthlib~=2.0.0
-python-dotenv~=1.0.1
-discord.py~=2.4.0
-discord~=2.3.2
-requests~=2.32.3
-SQLAlchemy~=2.0.36
 alembic~=1.13.3
+discord~=2.3.2
+discord.py~=2.4.0
+flask~=3.0.3
+psycopg2-binary~=2.9.10
+python-dotenv~=1.0.1
+requests~=2.32.3
+requests-oauthlib~=2.0.0
+SQLAlchemy~=2.0.36
