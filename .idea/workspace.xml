@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2f63a7e-ff81-49d1-8079-a036d9e96c78" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ChamberBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ChamberBot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/embeds/weather_embed.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/embeds/weather_embed.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/repositories/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/temperature_fact_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/temperature_fact_repository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/weather_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/weather_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/weather_service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Work\Python\ChamberBot" />
       <recent name="D:\Work\Discord Bots\TheChamber\alembic" />
     </key>
   </component>

@@ -5,6 +5,7 @@ import discord
 
 from src.dtos import EmbedFieldDto
 from src.embeds import BaseEmbed
+from src.models import TemperatureFact
 
 
 class WeatherEmbed(BaseEmbed):
@@ -12,8 +13,8 @@ class WeatherEmbed(BaseEmbed):
     TEMPERATURE_CONVERSION_FACTOR = 1.8
     TEMPERATURE_CONVERSION_OFFSET = 32
 
-    def __init__(self, fact: str, data: Dict[str, Any]):
-        self.fact = fact
+    def __init__(self, temperature_fact: None|TemperatureFact, data: Dict[str, Any]):
+        self.temperature_fact = temperature_fact
         self.data = data
         self.local_time = None
 
@@ -82,9 +83,11 @@ class WeatherEmbed(BaseEmbed):
         return ''
 
     def _set_embed_fields(self) -> None:
+        fact = self.temperature_fact.fact if self.temperature_fact else 'N/A'
+
         self.fields = [
             EmbedFieldDto(name="Temperature", value=self._format_temperature(self.data['main']['temp'])),
-            EmbedFieldDto(name="Fun Fact", value=self.fact),
+            EmbedFieldDto(name="Fun Fact", value=fact),
             EmbedFieldDto(name="Feels Like", value=self._format_temperature(self.data['main']['feels_like'])),
             EmbedFieldDto(name="Humidity", value=f"{self.data['main']['humidity']}%"),
             EmbedFieldDto(name="Local Time", value=self.local_time)

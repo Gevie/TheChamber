@@ -4,17 +4,19 @@ from typing import Any, Dict
 import discord
 import requests
 
-from src.data_loaders import JSONDataLoader
 from src.embeds import WeatherEmbed
 from src.exceptions import NotFoundException
-from src.repositories import WeatherRepository
+from src.models import TemperatureFact
+from src.repositories import RepositoryFactory
 
 
 class WeatherService:
     def __init__(self):
         self.api_key = os.getenv('WEATHER_API_KEY')
         self.base_url = os.getenv('WEATHER_API_BASE_URL')
-        self.repository = WeatherRepository(JSONDataLoader('src/data/temperature_facts.json'))
+
+        repository_factory = RepositoryFactory()
+        self.repository = repository_factory.get_repository(TemperatureFact)
 
     def get(self, location) -> discord.Embed:
         params = {
@@ -30,7 +32,7 @@ class WeatherService:
         raise NotFoundException('Could not fetch weather data')
 
     def _create_embed(self, data: Dict[str, Any]) -> discord.Embed:
-        fact = self.repository.get_temperature_fact(data['main']['temp'])
-        weather_embed = WeatherEmbed(fact=fact, data=data)
+        temperature_fact = self.repository.get_by_temperature(data['main']['temp'])
+        weather_embed = WeatherEmbed(temperature_fact=temperature_fact, data=data)
 
         return weather_embed.get()
