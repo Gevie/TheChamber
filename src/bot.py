@@ -25,8 +25,11 @@ class BotRunner:
 
     @staticmethod
     async def load_cogs():
-        from src.commands.weather_command import WeatherCommand
+        from src.commands import WeatherCommand
+        from src.commands import WarningCommand
+
         await bot.add_cog(WeatherCommand(bot))
+        await bot.add_cog(WarningCommand(bot))
 
     async def run(self):
         await self.load_cogs()

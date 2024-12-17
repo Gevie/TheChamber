@@ -1,12 +1,14 @@
 from src.database import SessionLocal
+from src.repositories.warning_repository import WarningRepository
 from src.repositories.temperature_fact_repository import TemperatureFactRepository
-from src.models import Base, TemperatureFact
+from src.models import TemperatureFact, Warning
 
 class RepositoryFactory:
     def __init__(self):
         self._db_session = SessionLocal()
         self._repository_map = {
-            TemperatureFact: TemperatureFactRepository
+            TemperatureFact: TemperatureFactRepository,
+            Warning: WarningRepository
         }
 
     def get_repository(self, model):

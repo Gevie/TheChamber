@@ -2,19 +2,18 @@ from discord.app_commands.checks import has_permissions
 from discord.ext import commands
 
 from src.commands import BaseCommand
-from src.services import WarnService
+from src.services import WarningService
 
-class WarnCommand(BaseCommand):
+class WarningCommand(BaseCommand):
     def __init__(self, bot: commands.Bot):
         super().__init__(bot)
-        self.warn_service = WarnService()
+        self.warning_service = WarningService()
 
     @commands.command(name='warn')
     @has_permissions(administrator=True)
-    async def warn(self, ctx, user: commands.MemberConverter, *, reason:str) -> None:
+    async def warn(self, ctx, user: commands.MemberConverter, reason:str) -> None:
         warn_issuer = ctx.message.author
-        tagged_user = user
 
-        warning_id = self.warn_service.log(tagged_user, warn_issuer, reason)
+        warning = self.warning_service.warn(user, warn_issuer, reason)
 
         
